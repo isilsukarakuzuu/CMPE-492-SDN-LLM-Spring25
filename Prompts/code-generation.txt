@@ -1,0 +1,10 @@
+Write a function to reverse a singly linked list in-place without using recursion.
+Given a string s, return the length of the longest substring without repeating characters.
+Implement a function to detect a cycle in a directed graph using depth-first search (DFS).
+Design a simple URL shortener system. Write the core functions to encode and decode URLs. Use a dictionary to store mappings.
+Write a function that reverses a 32-bit signed integer. If the reversed integer overflows, return 0.
+Given a pandas DataFrame with missing values and duplicate rows, write code to drop duplicates and fill missing values with the mean of each column.
+Generate a regular expression that matches email addresses in the format firstname.lastname@company.com.
+Write a Python function to read a large text file line by line and process each line using minimal memory.
+Implement a function to perform level-order traversal (BFS) on a binary tree and return the values level by level.
+Write a function that returns all permutations of a given list of unique integers.
