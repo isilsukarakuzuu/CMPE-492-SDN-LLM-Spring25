@@ -56,13 +56,16 @@ Use the `MODEL_NAME` environment variable to test different models.
 
 ```bash
 # Test Gemma
-MODEL_NAME="gemma3:4b" locust -f locustfile.py
+MODEL_NAME="gemma3:4b" \
+locust -f locustfile.py --host=https://ollama-gemma-587938011321.us-central1.run.app
 
 # Test LLaMA
-MODEL_NAME="llama3:8b" locust -f locustfile.py
+MODEL_NAME="llama3:8b" \
+locust -f locustfile.py --host=https://ollama-llama-587938011321.us-central1.run.app
 
 # Test DeepSeek (used for code-gen prompts + slower wait time)
-MODEL_NAME="deepseek-coder:6.7b" locust -f locustfile.py
+MODEL_NAME="deepseek-coder:6.7b" \
+locust -f locustfile.py --host=https://ollama-deepseek-587938011321.us-central1.run.app
 ```
 
 Then open your browser at `http://localhost:8089` to start the test.
