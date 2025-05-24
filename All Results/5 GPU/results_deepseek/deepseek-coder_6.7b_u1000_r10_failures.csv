@@ -1,0 +1,3 @@
+Method,Name,Error,Occurrences
+POST,/api/generate,HTTPError('504 Server Error: Gateway Timeout for url: /api/generate'),21
+POST,/api/generate,RemoteDisconnected('Remote end closed connection without response'),1

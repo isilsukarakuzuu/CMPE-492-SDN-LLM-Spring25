@@ -1,0 +1,1182 @@
+Model,Prompt,Tokens,TTFT (s),Avg Time/Token (s)
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,362,11.821,0.0310
+llama3:8b,What's the difference between anxiety and stress?,373,11.896,0.0311
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,387,13.099,0.0310
+llama3:8b,What are some fun icebreaker questions for team meetings?,400,12.898,0.0311
+llama3:8b,What's the difference between anxiety and stress?,438,11.790,0.0313
+llama3:8b,How can I start a simple workout routine at home with no equ...,463,12.849,0.0314
+llama3:8b,How do I negotiate my salary during a job offer?,462,12.086,0.0310
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,544,12.093,0.0311
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,606,13.243,0.0312
+llama3:8b,How do I negotiate my salary during a job offer?,641,12.802,0.0318
+llama3:8b,What are some tips to stay focused while studying?,644,12.833,0.0316
+llama3:8b,How can I start a simple workout routine at home with no equ...,645,11.847,0.0318
+llama3:8b,What are some fun icebreaker questions for team meetings?,367,23.120,0.0324
+llama3:8b,What are some fun icebreaker questions for team meetings?,369,25.120,0.0323
+llama3:8b,What's the difference between anxiety and stress?,412,24.429,0.0327
+llama3:8b,What are some tips to stay focused while studying?,457,27.491,0.0328
+llama3:8b,What's the difference between anxiety and stress?,524,26.586,0.0327
+llama3:8b,How can I start a simple workout routine at home with no equ...,540,26.460,0.0329
+llama3:8b,What are some fun icebreaker questions for team meetings?,459,30.198,0.0330
+llama3:8b,Can you explain inflation in simple terms?,453,31.460,0.0329
+llama3:8b,How do I write a professional follow-up email after a job in...,458,33.272,0.0330
+llama3:8b,How do I negotiate my salary during a job offer?,573,28.112,0.0329
+llama3:8b,Can you explain inflation in simple terms?,391,34.116,0.0329
+llama3:8b,What are some fun icebreaker questions for team meetings?,417,34.172,0.0326
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,800,23.586,0.0328
+llama3:8b,How do I negotiate my salary during a job offer?,576,31.224,0.0331
+llama3:8b,Can you explain inflation in simple terms?,258,43.430,0.0323
+llama3:8b,What are some tips to stay focused while studying?,599,36.938,0.0334
+llama3:8b,What's the difference between anxiety and stress?,452,41.777,0.0335
+llama3:8b,Can you explain inflation in simple terms?,329,45.436,0.0336
+llama3:8b,How do I write a professional follow-up email after a job in...,526,40.588,0.0334
+llama3:8b,What are some fun icebreaker questions for team meetings?,485,46.420,0.0336
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,447,46.835,0.0322
+llama3:8b,How do I write a professional follow-up email after a job in...,499,47.062,0.0335
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,650,42.205,0.0323
+llama3:8b,What are some fun icebreaker questions for team meetings?,535,47.977,0.0334
+llama3:8b,How can I start a simple workout routine at home with no equ...,614,49.348,0.0331
+llama3:8b,What are some fun icebreaker questions for team meetings?,429,56.014,0.0333
+llama3:8b,How do I write a professional follow-up email after a job in...,430,56.599,0.0329
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,810,45.069,0.0325
+llama3:8b,What are some fun icebreaker questions for team meetings?,375,60.286,0.0331
+llama3:8b,What's the difference between anxiety and stress?,411,61.759,0.0334
+llama3:8b,How can I start a simple workout routine at home with no equ...,594,55.001,0.0330
+llama3:8b,How do I write a professional follow-up email after a job in...,570,56.188,0.0330
+llama3:8b,How can I start a simple workout routine at home with no equ...,740,50.873,0.0328
+llama3:8b,How can I start a simple workout routine at home with no equ...,504,60.287,0.0334
+llama3:8b,How do I negotiate my salary during a job offer?,597,62.864,0.0333
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,390,69.411,0.0333
+llama3:8b,Can you explain inflation in simple terms?,563,65.958,0.0333
+llama3:8b,How do I negotiate my salary during a job offer?,535,67.750,0.0332
+llama3:8b,How do I write a professional follow-up email after a job in...,518,68.845,0.0332
+llama3:8b,What are some fun icebreaker questions for team meetings?,412,71.774,0.0329
+llama3:8b,What are some fun icebreaker questions for team meetings?,430,74.132,0.0333
+llama3:8b,What are some fun icebreaker questions for team meetings?,487,73.753,0.0331
+llama3:8b,How do I write a professional follow-up email after a job in...,480,74.331,0.0325
+llama3:8b,How do I negotiate my salary during a job offer?,574,74.549,0.0328
+llama3:8b,What are some fun icebreaker questions for team meetings?,382,81.824,0.0325
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,701,69.499,0.0331
+llama3:8b,Can you explain inflation in simple terms?,400,83.776,0.0325
+llama3:8b,How do I write a professional follow-up email after a job in...,559,76.187,0.0327
+llama3:8b,How can I start a simple workout routine at home with no equ...,389,82.370,0.0329
+llama3:8b,What are some fun icebreaker questions for team meetings?,331,87.047,0.0333
+llama3:8b,How can I start a simple workout routine at home with no equ...,632,82.478,0.0326
+llama3:8b,How can I start a simple workout routine at home with no equ...,620,85.563,0.0325
+llama3:8b,What are some tips to stay focused while studying?,605,87.480,0.0323
+llama3:8b,Can you explain inflation in simple terms?,382,95.843,0.0328
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,703,86.149,0.0325
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,593,88.008,0.0322
+llama3:8b,What are some fun icebreaker questions for team meetings?,484,92.496,0.0322
+llama3:8b,What are some tips to stay focused while studying?,586,92.327,0.0326
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,626,92.455,0.0325
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,435,101.136,0.0324
+llama3:8b,Can you explain inflation in simple terms?,416,103.745,0.0328
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,809,90.689,0.0326
+llama3:8b,How do I negotiate my salary during a job offer?,585,99.108,0.0323
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,752,96.244,0.0326
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,385,111.449,0.0318
+llama3:8b,What are some tips to stay focused while studying?,548,107.100,0.0327
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,587,106.137,0.0327
+llama3:8b,What are some fun icebreaker questions for team meetings?,609,107.446,0.0320
+llama3:8b,What's the difference between anxiety and stress?,499,111.846,0.0320
+llama3:8b,How do I negotiate my salary during a job offer?,498,82.980,0.0335
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,673,107.171,0.0327
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,307,90.182,0.0333
+llama3:8b,How can I start a simple workout routine at home with no equ...,605,114.267,0.0323
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,326,125.111,0.0327
+llama3:8b,What are some fun icebreaker questions for team meetings?,426,122.777,0.0325
+llama3:8b,How do I write a professional follow-up email after a job in...,530,88.434,0.0334
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,350,124.463,0.0327
+llama3:8b,What's the difference between anxiety and stress?,349,88.577,0.0328
+llama3:8b,How do I negotiate my salary during a job offer?,652,117.439,0.0329
+llama3:8b,What are some fun icebreaker questions for team meetings?,431,124.025,0.0325
+llama3:8b,How can I start a simple workout routine at home with no equ...,702,90.905,0.0334
+llama3:8b,How do I negotiate my salary during a job offer?,559,124.877,0.0325
+llama3:8b,Can you explain inflation in simple terms?,508,128.219,0.0327
+llama3:8b,What are some fun icebreaker questions for team meetings?,452,93.387,0.0333
+llama3:8b,What are some fun icebreaker questions for team meetings?,466,131.878,0.0323
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,315,137.921,0.0324
+llama3:8b,What are some fun icebreaker questions for team meetings?,441,95.668,0.0334
+llama3:8b,How can I start a simple workout routine at home with no equ...,465,136.066,0.0326
+llama3:8b,What's the difference between anxiety and stress?,543,134.904,0.0328
+llama3:8b,Can you explain inflation in simple terms?,422,138.135,0.0323
+llama3:8b,What are some tips to stay focused while studying?,609,134.669,0.0324
+llama3:8b,How can I start a simple workout routine at home with no equ...,568,94.577,0.0333
+llama3:8b,How do I negotiate my salary during a job offer?,512,144.151,0.0324
+llama3:8b,What's the difference between anxiety and stress?,449,98.728,0.0327
+llama3:8b,How can I start a simple workout routine at home with no equ...,615,94.610,0.0330
+llama3:8b,What's the difference between anxiety and stress?,482,144.892,0.0333
+llama3:8b,Can you explain inflation in simple terms?,474,125.509,0.0335
+llama3:8b,What's the difference between anxiety and stress?,415,127.953,0.0334
+llama3:8b,How do I write a professional follow-up email after a job in...,552,147.024,0.0323
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,496,100.959,0.0328
+llama3:8b,Can you explain inflation in simple terms?,491,151.856,0.0324
+llama3:8b,Can you explain inflation in simple terms?,435,133.124,0.0321
+llama3:8b,What are some fun icebreaker questions for team meetings?,512,117.635,0.0334
+llama3:8b,Can you explain inflation in simple terms?,330,100.132,0.0332
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,382,136.166,0.0320
+llama3:8b,How do I write a professional follow-up email after a job in...,651,96.678,0.0330
+llama3:8b,Can you explain inflation in simple terms?,314,136.665,0.0318
+llama3:8b,How do I negotiate my salary during a job offer?,554,93.769,0.0333
+llama3:8b,Can you explain inflation in simple terms?,457,139.850,0.0318
+llama3:8b,What are some fun icebreaker questions for team meetings?,363,134.383,0.0317
+llama3:8b,How do I write a professional follow-up email after a job in...,513,117.189,0.0332
+llama3:8b,What are some tips to stay focused while studying?,450,97.349,0.0335
+llama3:8b,What are some fun icebreaker questions for team meetings?,388,118.418,0.0331
+llama3:8b,How can I start a simple workout routine at home with no equ...,579,115.516,0.0333
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,794,122.039,0.0334
+llama3:8b,What are some tips to stay focused while studying?,501,129.235,0.0317
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,310,123.542,0.0319
+llama3:8b,How do I write a professional follow-up email after a job in...,560,98.596,0.0336
+llama3:8b,How do I write a professional follow-up email after a job in...,382,130.580,0.0319
+llama3:8b,Can you explain inflation in simple terms?,448,103.881,0.0336
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,425,104.004,0.0336
+llama3:8b,How do I negotiate my salary during a job offer?,458,102.145,0.0334
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,515,122.345,0.0319
+llama3:8b,How can I start a simple workout routine at home with no equ...,467,119.630,0.0341
+llama3:8b,Can you explain inflation in simple terms?,413,125.193,0.0319
+llama3:8b,Can you explain inflation in simple terms?,437,109.542,0.0330
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,373,105.119,0.0330
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,739,129.218,0.0342
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,421,110.708,0.0329
+llama3:8b,How can I start a simple workout routine at home with no equ...,579,128.111,0.0319
+llama3:8b,How can I start a simple workout routine at home with no equ...,672,120.045,0.0343
+llama3:8b,How can I start a simple workout routine at home with no equ...,519,119.924,0.0318
+llama3:8b,Can you explain inflation in simple terms?,392,120.438,0.0317
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,751,110.214,0.0343
+llama3:8b,How can I start a simple workout routine at home with no equ...,499,103.213,0.0326
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,309,108.593,0.0327
+llama3:8b,How do I write a professional follow-up email after a job in...,548,109.904,0.0342
+llama3:8b,What's the difference between anxiety and stress?,420,105.377,0.0339
+llama3:8b,What's the difference between anxiety and stress?,475,102.256,0.0326
+llama3:8b,How do I negotiate my salary during a job offer?,619,124.888,0.0320
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,534,108.435,0.0326
+llama3:8b,Can you explain inflation in simple terms?,467,123.829,0.0319
+llama3:8b,How can I start a simple workout routine at home with no equ...,564,122.527,0.0320
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,544,99.118,0.0335
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,757,108.681,0.0336
+llama3:8b,What are some tips to stay focused while studying?,593,99.090,0.0333
+llama3:8b,What are some fun icebreaker questions for team meetings?,444,105.685,0.0327
+llama3:8b,What are some fun icebreaker questions for team meetings?,499,131.500,0.0323
+llama3:8b,How do I write a professional follow-up email after a job in...,548,129.386,0.0321
+llama3:8b,How can I start a simple workout routine at home with no equ...,618,105.042,0.0328
+llama3:8b,Can you explain inflation in simple terms?,375,106.203,0.0326
+llama3:8b,Can you explain inflation in simple terms?,450,100.955,0.0332
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,463,104.257,0.0329
+llama3:8b,What's the difference between anxiety and stress?,483,130.372,0.0323
+llama3:8b,What's the difference between anxiety and stress?,448,100.199,0.0338
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,532,134.828,0.0323
+llama3:8b,What's the difference between anxiety and stress?,440,90.214,0.0337
+llama3:8b,How can I start a simple workout routine at home with no equ...,572,105.681,0.0327
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,643,102.064,0.0336
+llama3:8b,How can I start a simple workout routine at home with no equ...,520,104.479,0.0316
+llama3:8b,How do I write a professional follow-up email after a job in...,488,91.676,0.0336
+llama3:8b,Can you explain inflation in simple terms?,467,132.544,0.0328
+llama3:8b,How do I negotiate my salary during a job offer?,464,94.540,0.0334
+llama3:8b,Can you explain inflation in simple terms?,317,92.083,0.0328
+llama3:8b,How can I start a simple workout routine at home with no equ...,469,118.055,0.0330
+llama3:8b,What's the difference between anxiety and stress?,504,97.867,0.0327
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,542,134.313,0.0317
+llama3:8b,How do I negotiate my salary during a job offer?,563,112.181,0.0337
+llama3:8b,Can you explain inflation in simple terms?,428,142.203,0.0322
+llama3:8b,How do I negotiate my salary during a job offer?,540,140.290,0.0320
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,321,104.855,0.0327
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,704,80.882,0.0326
+llama3:8b,How do I negotiate my salary during a job offer?,538,110.303,0.0326
+llama3:8b,Can you explain inflation in simple terms?,392,133.702,0.0322
+llama3:8b,How can I start a simple workout routine at home with no equ...,740,114.480,0.0326
+llama3:8b,What are some tips to stay focused while studying?,493,105.019,0.0325
+llama3:8b,What are some tips to stay focused while studying?,491,99.516,0.0326
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,470,91.399,0.0338
+llama3:8b,What are some tips to stay focused while studying?,571,135.520,0.0322
+llama3:8b,What are some fun icebreaker questions for team meetings?,487,83.436,0.0334
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,566,138.711,0.0321
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,358,109.881,0.0333
+llama3:8b,How do I write a professional follow-up email after a job in...,561,104.477,0.0330
+llama3:8b,How do I negotiate my salary during a job offer?,556,134.553,0.0321
+llama3:8b,How do I write a professional follow-up email after a job in...,494,71.813,0.0326
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,581,108.856,0.0331
+llama3:8b,What are some tips to stay focused while studying?,512,78.222,0.0322
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,793,81.938,0.0329
+llama3:8b,How can I start a simple workout routine at home with no equ...,494,140.361,0.0321
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,352,97.189,0.0331
+llama3:8b,What's the difference between anxiety and stress?,365,107.995,0.0332
+llama3:8b,How can I start a simple workout routine at home with no equ...,505,80.864,0.0325
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,380,140.349,0.0322
+llama3:8b,What are some fun icebreaker questions for team meetings?,408,99.418,0.0331
+llama3:8b,Can you explain inflation in simple terms?,363,100.384,0.0327
+llama3:8b,How can I start a simple workout routine at home with no equ...,561,80.342,0.0334
+llama3:8b,What are some tips to stay focused while studying?,483,151.082,0.0326
+llama3:8b,What are some tips to stay focused while studying?,557,85.798,0.0326
+llama3:8b,How can I start a simple workout routine at home with no equ...,590,81.068,0.0338
+llama3:8b,What are some fun icebreaker questions for team meetings?,374,69.074,0.0326
+llama3:8b,How can I start a simple workout routine at home with no equ...,562,74.394,0.0338
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,644,72.085,0.0338
+llama3:8b,How can I start a simple workout routine at home with no equ...,639,97.119,0.0326
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,521,148.409,0.0327
+llama3:8b,Can you explain inflation in simple terms?,481,73.680,0.0338
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,362,155.901,0.0325
+llama3:8b,How can I start a simple workout routine at home with no equ...,614,45.212,0.0330
+llama3:8b,Can you explain inflation in simple terms?,358,64.851,0.0337
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,467,144.635,0.0323
+llama3:8b,What's the difference between anxiety and stress?,392,25.217,0.0332
+llama3:8b,What are some fun icebreaker questions for team meetings?,450,40.533,0.0334
+llama3:8b,What are some fun icebreaker questions for team meetings?,443,143.111,0.0323
+llama3:8b,How do I negotiate my salary during a job offer?,527,72.747,0.0338
+llama3:8b,What are some fun icebreaker questions for team meetings?,492,66.900,0.0339
+llama3:8b,How can I start a simple workout routine at home with no equ...,651,44.380,0.0335
+llama3:8b,How can I start a simple workout routine at home with no equ...,471,68.477,0.0341
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,334,151.888,0.0314
+llama3:8b,Can you explain inflation in simple terms?,462,150.684,0.0317
+llama3:8b,How do I write a professional follow-up email after a job in...,532,30.692,0.0341
+llama3:8b,Can you explain inflation in simple terms?,331,55.540,0.0338
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,600,148.527,0.0316
+llama3:8b,What are some fun icebreaker questions for team meetings?,451,25.037,0.0341
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,533,67.684,0.0343
+llama3:8b,How can I start a simple workout routine at home with no equ...,503,151.602,0.0316
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,573,24.909,0.0340
+llama3:8b,How can I start a simple workout routine at home with no equ...,557,60.393,0.0342
+llama3:8b,Can you explain inflation in simple terms?,457,24.181,0.0338
+llama3:8b,Can you explain inflation in simple terms?,379,147.303,0.0318
+llama3:8b,What are some fun icebreaker questions for team meetings?,391,121.358,0.0319
+llama3:8b,What are some tips to stay focused while studying?,492,52.592,0.0344
+llama3:8b,Can you explain inflation in simple terms?,484,25.326,0.0324
+llama3:8b,How can I start a simple workout routine at home with no equ...,503,114.209,0.0318
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,582,55.189,0.0342
+llama3:8b,How do I negotiate my salary during a job offer?,529,57.454,0.0342
+llama3:8b,How do I negotiate my salary during a job offer?,649,125.606,0.0319
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,441,114.986,0.0319
+llama3:8b,How do I write a professional follow-up email after a job in...,452,20.832,0.0322
+llama3:8b,How can I start a simple workout routine at home with no equ...,702,29.756,0.0327
+llama3:8b,How do I negotiate my salary during a job offer?,604,26.621,0.0325
+llama3:8b,How do I write a professional follow-up email after a job in...,537,50.643,0.0341
+llama3:8b,How do I write a professional follow-up email after a job in...,572,104.318,0.0319
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,313,30.436,0.0332
+llama3:8b,How do I write a professional follow-up email after a job in...,637,52.284,0.0337
+llama3:8b,What are some fun icebreaker questions for team meetings?,460,93.897,0.0327
+llama3:8b,What are some fun icebreaker questions for team meetings?,472,84.869,0.0329
+llama3:8b,Can you explain inflation in simple terms?,445,27.540,0.0332
+llama3:8b,How do I negotiate my salary during a job offer?,558,60.446,0.0335
+llama3:8b,How do I write a professional follow-up email after a job in...,539,82.560,0.0327
+llama3:8b,What are some tips to stay focused while studying?,573,55.891,0.0335
+llama3:8b,Can you explain inflation in simple terms?,478,18.968,0.0331
+llama3:8b,What are some tips to stay focused while studying?,596,21.573,0.0331
+llama3:8b,What are some tips to stay focused while studying?,540,49.050,0.0334
+llama3:8b,What are some tips to stay focused while studying?,530,85.973,0.0327
+llama3:8b,What are some tips to stay focused while studying?,630,16.240,0.0332
+llama3:8b,What are some tips to stay focused while studying?,514,54.890,0.0334
+llama3:8b,What are some fun icebreaker questions for team meetings?,509,93.487,0.0320
+llama3:8b,What's the difference between anxiety and stress?,524,7.163,0.0332
+llama3:8b,What are some tips to stay focused while studying?,491,60.290,0.0331
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,628,90.690,0.0318
+llama3:8b,How can I start a simple workout routine at home with no equ...,566,86.648,0.0315
+llama3:8b,Can you explain inflation in simple terms?,450,88.149,0.0317
+llama3:8b,How can I start a simple workout routine at home with no equ...,586,59.308,0.0332
+llama3:8b,What are some fun icebreaker questions for team meetings?,492,12.464,0.0335
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,583,10.808,0.0336
+llama3:8b,How can I start a simple workout routine at home with no equ...,631,57.770,0.0332
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,546,93.140,0.0325
+llama3:8b,Can you explain inflation in simple terms?,353,64.040,0.0333
+llama3:8b,How do I negotiate my salary during a job offer?,652,57.231,0.0332
+llama3:8b,What are some tips to stay focused while studying?,517,9.700,0.0331
+llama3:8b,What are some fun icebreaker questions for team meetings?,471,62.601,0.0334
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,720,14.590,0.0332
+llama3:8b,What's the difference between anxiety and stress?,528,77.253,0.0328
+llama3:8b,How do I write a professional follow-up email after a job in...,529,65.652,0.0327
+llama3:8b,How do I negotiate my salary during a job offer?,629,77.585,0.0327
+llama3:8b,How do I write a professional follow-up email after a job in...,574,14.592,0.0329
+llama3:8b,What's the difference between anxiety and stress?,510,62.689,0.0335
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,441,60.686,0.0334
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,797,11.794,0.0330
+llama3:8b,What are some tips to stay focused while studying?,523,59.822,0.0332
+llama3:8b,How can I start a simple workout routine at home with no equ...,524,22.820,0.0333
+llama3:8b,What are some fun icebreaker questions for team meetings?,376,73.473,0.0327
+llama3:8b,How do I write a professional follow-up email after a job in...,542,20.938,0.0333
+llama3:8b,How do I negotiate my salary during a job offer?,527,81.025,0.0325
+llama3:8b,How do I negotiate my salary during a job offer?,511,75.995,0.0325
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,733,75.840,0.0325
+llama3:8b,What's the difference between anxiety and stress?,474,22.399,0.0337
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,756,58.410,0.0330
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,317,28.797,0.0340
+llama3:8b,How do I write a professional follow-up email after a job in...,540,67.188,0.0328
+llama3:8b,Can you explain inflation in simple terms?,294,77.357,0.0325
+llama3:8b,How do I negotiate my salary during a job offer?,554,58.777,0.0329
+llama3:8b,What are some tips to stay focused while studying?,501,53.707,0.0331
+llama3:8b,What are some fun icebreaker questions for team meetings?,446,27.336,0.0331
+llama3:8b,What are some tips to stay focused while studying?,540,26.878,0.0332
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,534,84.858,0.0324
+llama3:8b,How do I negotiate my salary during a job offer?,545,84.863,0.0325
+llama3:8b,Can you explain inflation in simple terms?,295,85.385,0.0318
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,542,18.835,0.0332
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,447,56.946,0.0324
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,728,82.518,0.0322
+llama3:8b,What are some tips to stay focused while studying?,475,46.170,0.0324
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,426,41.437,0.0322
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,730,18.555,0.0330
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,477,89.303,0.0321
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,785,57.819,0.0327
+llama3:8b,What are some fun icebreaker questions for team meetings?,496,26.231,0.0328
+llama3:8b,What are some tips to stay focused while studying?,544,26.199,0.0329
+llama3:8b,How do I write a professional follow-up email after a job in...,546,83.985,0.0322
+llama3:8b,How can I start a simple workout routine at home with no equ...,534,14.352,0.0330
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,324,45.688,0.0339
+llama3:8b,What are some fun icebreaker questions for team meetings?,557,49.776,0.0338
+llama3:8b,How do I negotiate my salary during a job offer?,526,85.785,0.0323
+llama3:8b,How do I write a professional follow-up email after a job in...,418,50.280,0.0341
+llama3:8b,Can you explain inflation in simple terms?,428,23.261,0.0328
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,776,82.270,0.0324
+llama3:8b,What's the difference between anxiety and stress?,480,92.239,0.0327
+llama3:8b,Can you explain inflation in simple terms?,490,9.072,0.0326
+llama3:8b,What are some tips to stay focused while studying?,497,44.528,0.0337
+llama3:8b,What are some tips to stay focused while studying?,462,93.043,0.0328
+llama3:8b,What are some fun icebreaker questions for team meetings?,385,14.000,0.0317
+llama3:8b,How do I write a professional follow-up email after a job in...,655,22.908,0.0324
+llama3:8b,What are some fun icebreaker questions for team meetings?,391,46.901,0.0330
+llama3:8b,What's the difference between anxiety and stress?,435,18.284,0.0320
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,521,41.060,0.0328
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,619,44.584,0.0331
+llama3:8b,How can I start a simple workout routine at home with no equ...,563,97.344,0.0329
+llama3:8b,How do I negotiate my salary during a job offer?,517,89.060,0.0328
+llama3:8b,Can you explain inflation in simple terms?,428,7.086,0.0323
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,449,40.934,0.0330
+llama3:8b,What are some fun icebreaker questions for team meetings?,442,91.947,0.0324
+llama3:8b,Can you explain inflation in simple terms?,446,6.893,0.0327
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,614,90.667,0.0326
+llama3:8b,What are some tips to stay focused while studying?,466,4.864,0.0326
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,329,9.438,0.0326
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,529,42.566,0.0331
+llama3:8b,How do I write a professional follow-up email after a job in...,443,10.741,0.0322
+llama3:8b,How do I write a professional follow-up email after a job in...,559,40.084,0.0329
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,523,88.785,0.0321
+llama3:8b,Can you explain inflation in simple terms?,432,88.957,0.0322
+llama3:8b,How do I write a professional follow-up email after a job in...,603,100.340,0.0322
+llama3:8b,How do I negotiate my salary during a job offer?,558,11.895,0.0319
+llama3:8b,What are some fun icebreaker questions for team meetings?,497,90.400,0.0321
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,680,40.194,0.0328
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,826,36.353,0.0327
+llama3:8b,How can I start a simple workout routine at home with no equ...,596,11.685,0.0319
+llama3:8b,How do I negotiate my salary during a job offer?,620,5.974,0.0318
+llama3:8b,What are some fun icebreaker questions for team meetings?,394,100.306,0.0320
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,490,13.258,0.0320
+llama3:8b,How do I write a professional follow-up email after a job in...,411,87.269,0.0320
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,740,41.995,0.0330
+llama3:8b,How can I start a simple workout routine at home with no equ...,471,85.305,0.0318
+llama3:8b,Can you explain inflation in simple terms?,483,16.481,0.0324
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,697,90.401,0.0326
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,822,41.953,0.0332
+llama3:8b,What are some tips to stay focused while studying?,547,14.623,0.0328
+llama3:8b,How do I negotiate my salary during a job offer?,601,49.391,0.0336
+llama3:8b,Can you explain inflation in simple terms?,435,86.058,0.0320
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,534,87.426,0.0321
+llama3:8b,How can I start a simple workout routine at home with no equ...,604,15.332,0.0327
+llama3:8b,How do I write a professional follow-up email after a job in...,524,8.838,0.0326
+llama3:8b,Can you explain inflation in simple terms?,357,4.551,0.0328
+llama3:8b,How can I start a simple workout routine at home with no equ...,737,28.800,0.0334
+llama3:8b,How do I negotiate my salary during a job offer?,520,30.754,0.0333
+llama3:8b,What's the difference between anxiety and stress?,494,91.851,0.0326
+llama3:8b,How can I start a simple workout routine at home with no equ...,526,94.682,0.0325
+llama3:8b,What are some fun icebreaker questions for team meetings?,414,95.711,0.0322
+llama3:8b,How do I write a professional follow-up email after a job in...,469,33.047,0.0338
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,445,29.985,0.0337
+llama3:8b,Can you explain inflation in simple terms?,460,11.706,0.0330
+llama3:8b,What are some fun icebreaker questions for team meetings?,433,5.950,0.0330
+llama3:8b,What's the difference between anxiety and stress?,462,12.216,0.0332
+llama3:8b,Can you explain inflation in simple terms?,502,96.186,0.0324
+llama3:8b,How can I start a simple workout routine at home with no equ...,593,9.615,0.0329
+llama3:8b,Can you explain inflation in simple terms?,485,32.451,0.0332
+llama3:8b,How do I write a professional follow-up email after a job in...,430,97.854,0.0320
+llama3:8b,What are some tips to stay focused while studying?,486,27.141,0.0332
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,313,33.424,0.0326
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,366,30.526,0.0326
+llama3:8b,How do I write a professional follow-up email after a job in...,485,99.936,0.0315
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,364,4.271,0.0318
+llama3:8b,What's the difference between anxiety and stress?,439,99.204,0.0313
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,531,9.497,0.0319
+llama3:8b,How do I negotiate my salary during a job offer?,559,16.577,0.0320
+llama3:8b,How can I start a simple workout routine at home with no equ...,559,7.091,0.0319
+llama3:8b,What's the difference between anxiety and stress?,500,96.346,0.0317
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,804,99.130,0.0319
+llama3:8b,How do I write a professional follow-up email after a job in...,542,35.292,0.0321
+llama3:8b,Can you explain inflation in simple terms?,450,19.087,0.0321
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,511,21.997,0.0322
+llama3:8b,How do I write a professional follow-up email after a job in...,551,34.599,0.0323
+llama3:8b,How do I write a professional follow-up email after a job in...,550,98.420,0.0328
+llama3:8b,What are some fun icebreaker questions for team meetings?,483,101.707,0.0331
+llama3:8b,What's the difference between anxiety and stress?,459,9.043,0.0335
+llama3:8b,What are some tips to stay focused while studying?,626,8.072,0.0332
+llama3:8b,How do I negotiate my salary during a job offer?,478,8.783,0.0336
+llama3:8b,How do I negotiate my salary during a job offer?,556,8.438,0.0336
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,490,104.611,0.0332
+llama3:8b,Can you explain inflation in simple terms?,458,31.674,0.0322
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,587,30.832,0.0323
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,546,16.770,0.0323
+llama3:8b,How do I negotiate my salary during a job offer?,598,19.206,0.0324
+llama3:8b,How do I write a professional follow-up email after a job in...,455,106.356,0.0332
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,799,104.913,0.0332
+llama3:8b,Can you explain inflation in simple terms?,491,21.652,0.0332
+llama3:8b,What's the difference between anxiety and stress?,515,9.788,0.0330
+llama3:8b,Can you explain inflation in simple terms?,420,30.123,0.0328
+llama3:8b,How do I write a professional follow-up email after a job in...,488,112.726,0.0331
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,675,106.880,0.0334
+llama3:8b,How can I start a simple workout routine at home with no equ...,656,13.292,0.0331
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,617,8.845,0.0330
+llama3:8b,What are some fun icebreaker questions for team meetings?,383,116.248,0.0333
+llama3:8b,How do I negotiate my salary during a job offer?,584,22.476,0.0325
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,483,114.439,0.0334
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,636,25.817,0.0325
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,731,19.244,0.0325
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,559,20.720,0.0334
+llama3:8b,How do I negotiate my salary during a job offer?,506,20.888,0.0336
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,487,120.993,0.0328
+llama3:8b,How do I write a professional follow-up email after a job in...,543,117.531,0.0328
+llama3:8b,How do I write a professional follow-up email after a job in...,386,117.103,0.0323
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,627,28.321,0.0326
+llama3:8b,What are some tips to stay focused while studying?,451,114.031,0.0324
+llama3:8b,What are some fun icebreaker questions for team meetings?,494,34.280,0.0332
+llama3:8b,What are some tips to stay focused while studying?,650,16.436,0.0335
+llama3:8b,How do I negotiate my salary during a job offer?,659,16.107,0.0335
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,349,24.358,0.0330
+llama3:8b,Can you explain inflation in simple terms?,450,24.112,0.0331
+llama3:8b,What are some tips to stay focused while studying?,510,35.484,0.0329
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,743,35.535,0.0329
+llama3:8b,What's the difference between anxiety and stress?,488,120.542,0.0325
+llama3:8b,Can you explain inflation in simple terms?,432,118.598,0.0324
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,513,121.644,0.0330
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,352,28.977,0.0334
+llama3:8b,What are some fun icebreaker questions for team meetings?,431,117.205,0.0324
+llama3:8b,Can you explain inflation in simple terms?,414,31.593,0.0330
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,550,34.517,0.0333
+llama3:8b,How can I start a simple workout routine at home with no equ...,483,14.321,0.0335
+llama3:8b,What's the difference between anxiety and stress?,477,35.820,0.0339
+llama3:8b,How do I negotiate my salary during a job offer?,686,6.563,0.0330
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,604,8.418,0.0329
+llama3:8b,How do I negotiate my salary during a job offer?,499,112.482,0.0321
+llama3:8b,How do I negotiate my salary during a job offer?,586,123.478,0.0322
+llama3:8b,How do I write a professional follow-up email after a job in...,477,105.405,0.0320
+llama3:8b,What are some tips to stay focused while studying?,591,36.225,0.0338
+llama3:8b,How can I start a simple workout routine at home with no equ...,579,115.189,0.0324
+llama3:8b,What are some tips to stay focused while studying?,518,10.130,0.0327
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,489,37.999,0.0337
+llama3:8b,Can you explain inflation in simple terms?,399,11.082,0.0324
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,334,40.561,0.0332
+llama3:8b,Can you explain inflation in simple terms?,322,112.890,0.0325
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,804,38.154,0.0336
+llama3:8b,How can I start a simple workout routine at home with no equ...,458,114.667,0.0325
+llama3:8b,Can you explain inflation in simple terms?,478,114.351,0.0324
+llama3:8b,How do I write a professional follow-up email after a job in...,513,17.623,0.0322
+llama3:8b,What are some fun icebreaker questions for team meetings?,432,16.541,0.0320
+llama3:8b,Can you explain inflation in simple terms?,404,40.465,0.0336
+llama3:8b,How do I write a professional follow-up email after a job in...,523,113.531,0.0324
+llama3:8b,What are some tips to stay focused while studying?,509,40.811,0.0336
+llama3:8b,What's the difference between anxiety and stress?,471,16.928,0.0320
+llama3:8b,How can I start a simple workout routine at home with no equ...,661,14.557,0.0323
+llama3:8b,How do I negotiate my salary during a job offer?,486,41.060,0.0339
+llama3:8b,What are some tips to stay focused while studying?,529,119.182,0.0321
+llama3:8b,What's the difference between anxiety and stress?,428,114.667,0.0322
+llama3:8b,What's the difference between anxiety and stress?,463,118.840,0.0320
+llama3:8b,What are some tips to stay focused while studying?,477,20.970,0.0334
+llama3:8b,What's the difference between anxiety and stress?,461,43.071,0.0328
+llama3:8b,What are some fun icebreaker questions for team meetings?,552,24.024,0.0334
+llama3:8b,What are some fun icebreaker questions for team meetings?,526,113.735,0.0320
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,622,42.371,0.0331
+llama3:8b,How do I write a professional follow-up email after a job in...,558,39.053,0.0328
+llama3:8b,What are some tips to stay focused while studying?,547,18.825,0.0338
+llama3:8b,What are some tips to stay focused while studying?,463,41.804,0.0324
+llama3:8b,How can I start a simple workout routine at home with no equ...,530,15.973,0.0339
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,540,119.058,0.0312
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,541,105.169,0.0312
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,390,24.025,0.0341
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,528,26.992,0.0340
+llama3:8b,How do I negotiate my salary during a job offer?,559,45.662,0.0328
+llama3:8b,How do I write a professional follow-up email after a job in...,582,95.408,0.0313
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,776,121.923,0.0315
+llama3:8b,How can I start a simple workout routine at home with no equ...,557,44.210,0.0327
+llama3:8b,How do I negotiate my salary during a job offer?,630,45.475,0.0327
+llama3:8b,What are some tips to stay focused while studying?,505,15.431,0.0340
+llama3:8b,How can I start a simple workout routine at home with no equ...,541,27.246,0.0326
+llama3:8b,What are some tips to stay focused while studying?,557,15.374,0.0341
+llama3:8b,How do I negotiate my salary during a job offer?,493,105.495,0.0321
+llama3:8b,Can you explain inflation in simple terms?,421,25.537,0.0335
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,546,24.400,0.0335
+llama3:8b,How can I start a simple workout routine at home with no equ...,644,94.005,0.0321
+llama3:8b,Can you explain inflation in simple terms?,454,98.265,0.0322
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,526,97.934,0.0323
+llama3:8b,How can I start a simple workout routine at home with no equ...,625,37.385,0.0330
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,503,40.262,0.0331
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,300,106.862,0.0322
+llama3:8b,How do I write a professional follow-up email after a job in...,516,34.039,0.0334
+llama3:8b,How do I negotiate my salary during a job offer?,611,37.633,0.0333
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,629,30.681,0.0330
+llama3:8b,How do I negotiate my salary during a job offer?,604,17.280,0.0329
+llama3:8b,What are some tips to stay focused while studying?,476,20.120,0.0322
+llama3:8b,How do I negotiate my salary during a job offer?,518,5.043,0.0310
+llama3:8b,How can I start a simple workout routine at home with no equ...,414,99.961,0.0321
+llama3:8b,What are some tips to stay focused while studying?,589,103.888,0.0323
+llama3:8b,How can I start a simple workout routine at home with no equ...,608,107.632,0.0323
+llama3:8b,How do I negotiate my salary during a job offer?,502,46.443,0.0333
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,559,33.064,0.0331
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,326,0.317,0.0305
+llama3:8b,How do I negotiate my salary during a job offer?,659,97.542,0.0323
+llama3:8b,How can I start a simple workout routine at home with no equ...,533,29.924,0.0331
+llama3:8b,How can I start a simple workout routine at home with no equ...,613,32.673,0.0331
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,457,96.022,0.0323
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,402,0.320,0.0325
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,305,86.679,0.0331
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,579,0.283,0.0322
+llama3:8b,How can I start a simple workout routine at home with no equ...,523,96.494,0.0330
+llama3:8b,How do I write a professional follow-up email after a job in...,532,97.402,0.0327
+llama3:8b,What are some fun icebreaker questions for team meetings?,402,1.054,0.0321
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,802,0.256,0.0311
+llama3:8b,Can you explain inflation in simple terms?,491,34.576,0.0323
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,680,31.134,0.0324
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,804,34.832,0.0325
+llama3:8b,Can you explain inflation in simple terms?,383,96.630,0.0317
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,380,94.676,0.0317
+llama3:8b,How do I negotiate my salary during a job offer?,599,91.413,0.0322
+llama3:8b,How can I start a simple workout routine at home with no equ...,567,8.659,0.0278
+llama3:8b,What's the difference between anxiety and stress?,503,95.016,0.0319
+llama3:8b,What's the difference between anxiety and stress?,483,48.686,0.0334
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,964,33.298,0.0329
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,338,105.688,0.0326
+llama3:8b,What are some tips to stay focused while studying?,510,0.273,0.0314
+llama3:8b,How do I write a professional follow-up email after a job in...,606,0.281,0.0309
+llama3:8b,How do I negotiate my salary during a job offer?,508,45.062,0.0339
+llama3:8b,What are some fun icebreaker questions for team meetings?,462,0.271,0.0323
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,505,91.602,0.0325
+llama3:8b,What are some fun icebreaker questions for team meetings?,395,0.273,0.0330
+llama3:8b,How can I start a simple workout routine at home with no equ...,703,49.945,0.0340
+llama3:8b,How do I negotiate my salary during a job offer?,620,92.853,0.0325
+llama3:8b,Can you explain inflation in simple terms?,525,91.574,0.0324
+llama3:8b,What's the difference between anxiety and stress?,491,96.468,0.0326
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,394,7.141,0.0328
+llama3:8b,What's the difference between anxiety and stress?,463,1.483,0.0327
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,306,100.612,0.0327
+llama3:8b,How can I start a simple workout routine at home with no equ...,468,54.453,0.0345
+llama3:8b,How do I negotiate my salary during a job offer?,648,51.190,0.0345
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,674,51.096,0.0345
+llama3:8b,What are some tips to stay focused while studying?,499,0.991,0.0323
+llama3:8b,What's the difference between anxiety and stress?,437,1.045,0.0322
+llama3:8b,How can I start a simple workout routine at home with no equ...,573,99.190,0.0326
+llama3:8b,What's the difference between anxiety and stress?,468,100.136,0.0326
+llama3:8b,What are some fun icebreaker questions for team meetings?,494,56.169,0.0343
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,323,101.060,0.0324
+llama3:8b,What's the difference between anxiety and stress?,470,0.273,0.0324
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,404,52.694,0.0337
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,326,109.211,0.0319
+llama3:8b,How do I write a professional follow-up email after a job in...,538,104.674,0.0321
+llama3:8b,How do I write a professional follow-up email after a job in...,461,3.942,0.0326
+llama3:8b,What's the difference between anxiety and stress?,461,1.108,0.0326
+llama3:8b,How can I start a simple workout routine at home with no equ...,662,0.277,0.0325
+llama3:8b,How do I write a professional follow-up email after a job in...,413,99.467,0.0319
+llama3:8b,What are some tips to stay focused while studying?,585,54.348,0.0336
+llama3:8b,How do I negotiate my salary during a job offer?,522,108.589,0.0321
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,498,51.126,0.0335
+llama3:8b,Can you explain inflation in simple terms?,263,50.169,0.0330
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,776,65.430,0.0337
+llama3:8b,What are some tips to stay focused while studying?,489,10.159,0.0308
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,378,105.462,0.0323
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,390,53.998,0.0337
+llama3:8b,How do I write a professional follow-up email after a job in...,521,103.556,0.0323
+llama3:8b,What are some tips to stay focused while studying?,584,105.673,0.0323
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,553,2.698,0.0306
+llama3:8b,What's the difference between anxiety and stress?,415,104.826,0.0322
+llama3:8b,How do I negotiate my salary during a job offer?,596,8.530,0.0308
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,595,55.768,0.0338
+llama3:8b,How do I write a professional follow-up email after a job in...,554,55.351,0.0338
+llama3:8b,What's the difference between anxiety and stress?,528,36.939,0.0337
+llama3:8b,How do I write a professional follow-up email after a job in...,517,0.304,0.0314
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,359,104.815,0.0323
+llama3:8b,What's the difference between anxiety and stress?,537,0.284,0.0317
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,471,42.570,0.0334
+llama3:8b,How do I negotiate my salary during a job offer?,611,106.992,0.0323
+llama3:8b,What are some tips to stay focused while studying?,536,2.888,0.0312
+llama3:8b,How can I start a simple workout routine at home with no equ...,615,102.791,0.0323
+llama3:8b,What are some fun icebreaker questions for team meetings?,409,48.940,0.0328
+llama3:8b,How can I start a simple workout routine at home with no equ...,558,0.290,0.0311
+llama3:8b,What's the difference between anxiety and stress?,516,50.723,0.0329
+llama3:8b,How do I negotiate my salary during a job offer?,469,1.825,0.0306
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,785,105.626,0.0324
+llama3:8b,How can I start a simple workout routine at home with no equ...,519,36.876,0.0329
+llama3:8b,What are some fun icebreaker questions for team meetings?,477,103.628,0.0326
+llama3:8b,How do I negotiate my salary during a job offer?,538,40.562,0.0328
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,461,0.274,0.0299
+llama3:8b,How do I write a professional follow-up email after a job in...,519,0.261,0.0297
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,741,106.297,0.0325
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,494,104.266,0.0329
+llama3:8b,How do I write a professional follow-up email after a job in...,464,47.611,0.0325
+llama3:8b,Can you explain inflation in simple terms?,375,0.280,0.0262
+llama3:8b,What's the difference between anxiety and stress?,503,107.109,0.0326
+llama3:8b,How can I start a simple workout routine at home with no equ...,577,48.064,0.0322
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,577,48.326,0.0320
+llama3:8b,Can you explain inflation in simple terms?,255,110.728,0.0318
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,343,109.465,0.0321
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,433,111.921,0.0323
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,497,43.193,0.0322
+llama3:8b,How do I write a professional follow-up email after a job in...,517,0.221,0.0302
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,578,47.248,0.0322
+llama3:8b,What are some tips to stay focused while studying?,522,108.759,0.0318
+llama3:8b,What are some tips to stay focused while studying?,449,105.922,0.0317
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,575,0.270,0.0320
+llama3:8b,What are some tips to stay focused while studying?,525,0.340,0.0325
+llama3:8b,How do I negotiate my salary during a job offer?,448,0.286,0.0327
+llama3:8b,What are some tips to stay focused while studying?,487,44.959,0.0326
+llama3:8b,How can I start a simple workout routine at home with no equ...,590,102.968,0.0318
+llama3:8b,How do I negotiate my salary during a job offer?,658,52.555,0.0326
+llama3:8b,How do I negotiate my salary during a job offer?,607,46.794,0.0326
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,693,102.572,0.0319
+llama3:8b,What are some fun icebreaker questions for team meetings?,475,5.008,0.0315
+llama3:8b,What are some tips to stay focused while studying?,558,105.443,0.0321
+llama3:8b,How do I write a professional follow-up email after a job in...,666,3.507,0.0322
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,648,50.415,0.0331
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,407,58.125,0.0333
+llama3:8b,What are some fun icebreaker questions for team meetings?,401,50.633,0.0335
+llama3:8b,What are some fun icebreaker questions for team meetings?,455,106.217,0.0321
+llama3:8b,What's the difference between anxiety and stress?,502,0.336,0.0322
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,648,104.680,0.0322
+llama3:8b,What's the difference between anxiety and stress?,466,47.960,0.0333
+llama3:8b,Can you explain inflation in simple terms?,412,98.622,0.0321
+llama3:8b,What are some tips to stay focused while studying?,557,0.350,0.0330
+llama3:8b,Can you explain inflation in simple terms?,335,7.126,0.0334
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,517,46.903,0.0323
+llama3:8b,What are some tips to stay focused while studying?,564,6.553,0.0338
+llama3:8b,How do I negotiate my salary during a job offer?,581,102.280,0.0323
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,492,104.485,0.0323
+llama3:8b,What's the difference between anxiety and stress?,505,46.154,0.0323
+llama3:8b,What are some tips to stay focused while studying?,508,7.862,0.0336
+llama3:8b,How do I negotiate my salary during a job offer?,534,102.531,0.0324
+llama3:8b,How do I negotiate my salary during a job offer?,510,97.906,0.0325
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,676,56.649,0.0325
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,531,12.805,0.0333
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,847,45.449,0.0328
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,468,60.235,0.0339
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,521,7.312,0.0328
+llama3:8b,What's the difference between anxiety and stress?,479,105.499,0.0315
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,734,4.205,0.0332
+llama3:8b,What are some tips to stay focused while studying?,480,54.804,0.0345
+llama3:8b,How do I write a professional follow-up email after a job in...,569,103.864,0.0318
+llama3:8b,What are some tips to stay focused while studying?,547,106.165,0.0315
+llama3:8b,How do I negotiate my salary during a job offer?,579,6.439,0.0324
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,698,105.138,0.0317
+llama3:8b,How do I write a professional follow-up email after a job in...,527,44.622,0.0343
+llama3:8b,How do I negotiate my salary during a job offer?,556,3.568,0.0307
+llama3:8b,How do I write a professional follow-up email after a job in...,556,42.936,0.0334
+llama3:8b,What are some tips to stay focused while studying?,601,9.092,0.0273
+llama3:8b,How do I negotiate my salary during a job offer?,516,115.987,0.0326
+llama3:8b,How can I start a simple workout routine at home with no equ...,624,46.983,0.0328
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,564,43.266,0.0324
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,570,107.567,0.0324
+llama3:8b,How do I negotiate my salary during a job offer?,559,109.743,0.0328
+llama3:8b,What are some tips to stay focused while studying?,537,107.905,0.0328
+llama3:8b,How do I write a professional follow-up email after a job in...,510,43.578,0.0329
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,776,39.707,0.0327
+llama3:8b,What are some fun icebreaker questions for team meetings?,429,48.653,0.0335
+llama3:8b,What are some fun icebreaker questions for team meetings?,450,110.740,0.0322
+llama3:8b,How do I negotiate my salary during a job offer?,521,48.326,0.0336
+llama3:8b,How do I negotiate my salary during a job offer?,656,111.561,0.0324
+llama3:8b,What are some fun icebreaker questions for team meetings?,448,0.267,0.0312
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,678,112.680,0.0324
+llama3:8b,How can I start a simple workout routine at home with no equ...,590,111.305,0.0324
+llama3:8b,How do I negotiate my salary during a job offer?,542,0.239,0.0304
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,365,54.183,0.0340
+llama3:8b,What are some fun icebreaker questions for team meetings?,458,0.290,0.0322
+llama3:8b,What's the difference between anxiety and stress?,520,55.563,0.0339
+llama3:8b,Can you explain inflation in simple terms?,378,0.352,0.0326
+llama3:8b,How do I write a professional follow-up email after a job in...,529,51.390,0.0335
+llama3:8b,How do I negotiate my salary during a job offer?,522,45.597,0.0334
+llama3:8b,How do I write a professional follow-up email after a job in...,570,119.588,0.0322
+llama3:8b,What are some tips to stay focused while studying?,525,119.829,0.0322
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,414,0.312,0.0329
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,489,0.274,0.0328
+llama3:8b,Can you explain inflation in simple terms?,536,115.895,0.0320
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,587,111.570,0.0320
+llama3:8b,How can I start a simple workout routine at home with no equ...,539,51.456,0.0329
+llama3:8b,Can you explain inflation in simple terms?,450,0.384,0.0328
+llama3:8b,What are some tips to stay focused while studying?,534,53.704,0.0328
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,310,118.362,0.0321
+llama3:8b,Can you explain inflation in simple terms?,265,9.659,0.0330
+llama3:8b,Can you explain inflation in simple terms?,453,48.059,0.0325
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,591,50.047,0.0326
+llama3:8b,What's the difference between anxiety and stress?,509,123.551,0.0322
+llama3:8b,How can I start a simple workout routine at home with no equ...,697,3.392,0.0330
+llama3:8b,What are some tips to stay focused while studying?,485,11.256,0.0331
+llama3:8b,What are some fun icebreaker questions for team meetings?,440,120.216,0.0325
+llama3:8b,How do I negotiate my salary during a job offer?,620,120.136,0.0325
+llama3:8b,How can I start a simple workout routine at home with no equ...,592,51.936,0.0326
+llama3:8b,What are some fun icebreaker questions for team meetings?,460,121.394,0.0325
+llama3:8b,How can I start a simple workout routine at home with no equ...,529,55.212,0.0327
+llama3:8b,How do I negotiate my salary during a job offer?,620,5.513,0.0336
+llama3:8b,What are some fun icebreaker questions for team meetings?,378,115.330,0.0326
+llama3:8b,What are some fun icebreaker questions for team meetings?,448,59.816,0.0330
+llama3:8b,How do I negotiate my salary during a job offer?,503,8.330,0.0339
+llama3:8b,What are some fun icebreaker questions for team meetings?,442,57.326,0.0331
+llama3:8b,What are some tips to stay focused while studying?,454,12.170,0.0340
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,476,5.336,0.0342
+llama3:8b,How can I start a simple workout routine at home with no equ...,510,117.540,0.0325
+llama3:8b,What are some fun icebreaker questions for team meetings?,474,105.332,0.0324
+llama3:8b,How can I start a simple workout routine at home with no equ...,433,56.292,0.0321
+llama3:8b,How can I start a simple workout routine at home with no equ...,613,103.933,0.0325
+llama3:8b,How do I write a professional follow-up email after a job in...,461,11.536,0.0333
+llama3:8b,How can I start a simple workout routine at home with no equ...,552,12.426,0.0332
+llama3:8b,What are some tips to stay focused while studying?,580,60.044,0.0324
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,563,107.643,0.0325
+llama3:8b,How can I start a simple workout routine at home with no equ...,564,59.166,0.0323
+llama3:8b,Can you explain inflation in simple terms?,448,10.063,0.0329
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,742,65.145,0.0326
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,522,108.441,0.0323
+llama3:8b,Can you explain inflation in simple terms?,313,51.411,0.0334
+llama3:8b,What are some fun icebreaker questions for team meetings?,473,104.440,0.0323
+llama3:8b,Can you explain inflation in simple terms?,429,106.004,0.0320
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,499,13.280,0.0326
+llama3:8b,What's the difference between anxiety and stress?,472,49.906,0.0336
+llama3:8b,How do I negotiate my salary during a job offer?,494,8.649,0.0327
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,803,10.536,0.0325
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,516,107.342,0.0318
+llama3:8b,What are some tips to stay focused while studying?,489,50.300,0.0337
+llama3:8b,Can you explain inflation in simple terms?,329,43.592,0.0334
+llama3:8b,What are some fun icebreaker questions for team meetings?,519,40.326,0.0333
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,338,108.688,0.0318
+llama3:8b,What are some fun icebreaker questions for team meetings?,512,113.310,0.0317
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,382,48.469,0.0327
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,798,11.353,0.0331
+llama3:8b,How do I write a professional follow-up email after a job in...,427,110.743,0.0322
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,485,10.756,0.0336
+llama3:8b,What are some tips to stay focused while studying?,517,16.199,0.0336
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,758,110.135,0.0320
+llama3:8b,What are some tips to stay focused while studying?,627,0.294,0.0338
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,528,47.633,0.0327
+llama3:8b,Can you explain inflation in simple terms?,327,52.465,0.0323
+llama3:8b,How can I start a simple workout routine at home with no equ...,647,50.814,0.0325
+llama3:8b,How do I negotiate my salary during a job offer?,482,114.849,0.0327
+llama3:8b,How do I negotiate my salary during a job offer?,581,114.830,0.0327
+llama3:8b,How can I start a simple workout routine at home with no equ...,454,12.432,0.0332
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,745,51.975,0.0327
+llama3:8b,What's the difference between anxiety and stress?,449,7.819,0.0324
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,495,7.574,0.0320
+llama3:8b,What are some tips to stay focused while studying?,542,122.372,0.0331
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,390,62.409,0.0337
+llama3:8b,How do I write a professional follow-up email after a job in...,458,54.168,0.0338
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,620,116.511,0.0328
+llama3:8b,Can you explain inflation in simple terms?,489,109.240,0.0324
+llama3:8b,What's the difference between anxiety and stress?,490,0.334,0.0304
+llama3:8b,What are some fun icebreaker questions for team meetings?,573,56.035,0.0338
+llama3:8b,What are some tips to stay focused while studying?,607,103.659,0.0323
+llama3:8b,How can I start a simple workout routine at home with no equ...,541,0.268,0.0298
+llama3:8b,What are some tips to stay focused while studying?,581,58.685,0.0337
+llama3:8b,How do I negotiate my salary during a job offer?,461,0.290,0.0294
+llama3:8b,How can I start a simple workout routine at home with no equ...,567,100.285,0.0319
+llama3:8b,How do I write a professional follow-up email after a job in...,490,62.210,0.0334
+llama3:8b,What are some fun icebreaker questions for team meetings?,386,0.282,0.0276
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,512,96.245,0.0317
+llama3:8b,What are some tips to stay focused while studying?,578,57.584,0.0332
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,712,61.826,0.0332
+llama3:8b,What are some fun icebreaker questions for team meetings?,446,58.217,0.0332
+llama3:8b,How can I start a simple workout routine at home with no equ...,555,88.933,0.0316
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,771,94.710,0.0319
+llama3:8b,What are some fun icebreaker questions for team meetings?,400,60.329,0.0333
+llama3:8b,How do I write a professional follow-up email after a job in...,481,87.028,0.0321
+llama3:8b,How do I negotiate my salary during a job offer?,494,0.217,0.0270
+llama3:8b,What's the difference between anxiety and stress?,464,0.269,0.0270
+llama3:8b,How do I negotiate my salary during a job offer?,562,84.126,0.0329
+llama3:8b,What are some fun icebreaker questions for team meetings?,226,85.206,0.0335
+llama3:8b,Can you explain inflation in simple terms?,409,68.944,0.0332
+llama3:8b,What's the difference between anxiety and stress?,409,87.231,0.0336
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,499,69.138,0.0334
+llama3:8b,What are some tips to stay focused while studying?,472,89.394,0.0335
+llama3:8b,What are some tips to stay focused while studying?,580,68.539,0.0333
+llama3:8b,Can you explain inflation in simple terms?,465,69.733,0.0332
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,524,0.266,0.0273
+llama3:8b,What's the difference between anxiety and stress?,417,78.680,0.0318
+llama3:8b,What's the difference between anxiety and stress?,511,0.284,0.0301
+llama3:8b,Can you explain inflation in simple terms?,441,75.273,0.0312
+llama3:8b,How do I write a professional follow-up email after a job in...,473,76.768,0.0314
+llama3:8b,What's the difference between anxiety and stress?,389,56.181,0.0324
+llama3:8b,How do I negotiate my salary during a job offer?,447,0.288,0.0320
+llama3:8b,Can you explain inflation in simple terms?,511,71.823,0.0326
+llama3:8b,How do I negotiate my salary during a job offer?,589,69.795,0.0328
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,709,83.209,0.0319
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,558,62.146,0.0326
+llama3:8b,What are some fun icebreaker questions for team meetings?,471,0.297,0.0320
+llama3:8b,What are some tips to stay focused while studying?,477,0.272,0.0317
+llama3:8b,How do I negotiate my salary during a job offer?,491,80.749,0.0322
+llama3:8b,What's the difference between anxiety and stress?,455,3.256,0.0307
+llama3:8b,Can you explain inflation in simple terms?,431,66.052,0.0327
+llama3:8b,Can you explain inflation in simple terms?,464,82.751,0.0327
+llama3:8b,How do I negotiate my salary during a job offer?,548,64.692,0.0329
+llama3:8b,How do I negotiate my salary during a job offer?,529,0.307,0.0289
+llama3:8b,How do I negotiate my salary during a job offer?,536,82.176,0.0326
+llama3:8b,What are some tips to stay focused while studying?,497,66.920,0.0328
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,528,0.280,0.0286
+llama3:8b,Can you explain inflation in simple terms?,321,92.819,0.0327
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,727,67.157,0.0329
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,827,84.669,0.0326
+llama3:8b,What are some fun icebreaker questions for team meetings?,513,89.425,0.0325
+llama3:8b,How can I start a simple workout routine at home with no equ...,450,73.092,0.0332
+llama3:8b,Can you explain inflation in simple terms?,486,0.344,0.0278
+llama3:8b,What are some tips to stay focused while studying?,528,91.985,0.0331
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,349,0.338,0.0323
+llama3:8b,How do I negotiate my salary during a job offer?,532,75.064,0.0337
+llama3:8b,What are some tips to stay focused while studying?,589,74.960,0.0336
+llama3:8b,Can you explain inflation in simple terms?,488,92.028,0.0327
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,544,0.255,0.0314
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,530,94.882,0.0328
+llama3:8b,What's the difference between anxiety and stress?,506,77.051,0.0334
+llama3:8b,How can I start a simple workout routine at home with no equ...,657,95.899,0.0328
+llama3:8b,How can I start a simple workout routine at home with no equ...,520,0.324,0.0314
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,649,74.191,0.0336
+llama3:8b,Can you explain inflation in simple terms?,448,87.453,0.0330
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,713,0.403,0.0312
+llama3:8b,Can you explain inflation in simple terms?,417,90.355,0.0328
+llama3:8b,What are some tips to stay focused while studying?,521,79.673,0.0332
+llama3:8b,How can I start a simple workout routine at home with no equ...,502,89.080,0.0330
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,399,0.257,0.0321
+llama3:8b,Can you explain inflation in simple terms?,431,83.509,0.0331
+llama3:8b,How do I negotiate my salary during a job offer?,493,82.203,0.0328
+llama3:8b,How do I negotiate my salary during a job offer?,542,0.444,0.0322
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,588,85.505,0.0331
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,897,91.976,0.0329
+llama3:8b,What's the difference between anxiety and stress?,494,0.289,0.0331
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,363,81.943,0.0326
+llama3:8b,How can I start a simple workout routine at home with no equ...,507,86.485,0.0328
+llama3:8b,Can you explain inflation in simple terms?,294,84.071,0.0329
+llama3:8b,What's the difference between anxiety and stress?,514,91.722,0.0335
+llama3:8b,How do I negotiate my salary during a job offer?,574,0.294,0.0333
+llama3:8b,What's the difference between anxiety and stress?,491,85.729,0.0339
+llama3:8b,What are some tips to stay focused while studying?,595,85.854,0.0337
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,595,0.294,0.0332
+llama3:8b,How do I negotiate my salary during a job offer?,534,85.647,0.0324
+llama3:8b,How do I write a professional follow-up email after a job in...,486,0.355,0.0331
+llama3:8b,How can I start a simple workout routine at home with no equ...,509,88.769,0.0335
+llama3:8b,What are some tips to stay focused while studying?,572,1.284,0.0334
+llama3:8b,What are some tips to stay focused while studying?,490,83.917,0.0324
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,552,81.540,0.0325
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,703,82.234,0.0323
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,586,5.002,0.0332
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,394,10.576,0.0333
+llama3:8b,How do I write a professional follow-up email after a job in...,511,74.128,0.0318
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,756,81.264,0.0324
+llama3:8b,What are some tips to stay focused while studying?,547,73.246,0.0319
+llama3:8b,Can you explain inflation in simple terms?,424,9.701,0.0327
+llama3:8b,What are some fun icebreaker questions for team meetings?,478,88.154,0.0325
+llama3:8b,Can you explain inflation in simple terms?,459,76.543,0.0318
+llama3:8b,How can I start a simple workout routine at home with no equ...,635,10.485,0.0324
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,602,84.863,0.0327
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,323,83.094,0.0321
+llama3:8b,How do I write a professional follow-up email after a job in...,497,81.782,0.0320
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,369,88.278,0.0332
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,522,11.226,0.0321
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,529,11.242,0.0321
+llama3:8b,What are some fun icebreaker questions for team meetings?,450,81.524,0.0320
+llama3:8b,What are some tips to stay focused while studying?,562,92.254,0.0333
+llama3:8b,Can you explain inflation in simple terms?,485,10.254,0.0323
+llama3:8b,What's the difference between anxiety and stress?,487,80.706,0.0320
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,546,90.322,0.0330
+llama3:8b,Can you explain inflation in simple terms?,465,15.399,0.0324
+llama3:8b,What are some tips to stay focused while studying?,481,86.979,0.0320
+llama3:8b,What are some fun icebreaker questions for team meetings?,439,21.208,0.0325
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,536,79.173,0.0328
+llama3:8b,What are some fun icebreaker questions for team meetings?,380,82.893,0.0322
+llama3:8b,What's the difference between anxiety and stress?,494,82.847,0.0321
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,339,82.493,0.0326
+llama3:8b,How do I negotiate my salary during a job offer?,507,80.334,0.0326
+llama3:8b,Can you explain inflation in simple terms?,489,6.780,0.0325
+llama3:8b,Can you explain inflation in simple terms?,588,6.609,0.0324
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,793,95.423,0.0331
+llama3:8b,How do I write a professional follow-up email after a job in...,789,86.128,0.0322
+llama3:8b,Can you explain inflation in simple terms?,440,85.350,0.0324
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,534,6.573,0.0328
+llama3:8b,What's the difference between anxiety and stress?,404,82.051,0.0329
+llama3:8b,What's the difference between anxiety and stress?,450,11.932,0.0331
+llama3:8b,What's the difference between anxiety and stress?,473,79.319,0.0332
+llama3:8b,What are some fun icebreaker questions for team meetings?,448,9.066,0.0336
+llama3:8b,What are some tips to stay focused while studying?,594,86.773,0.0338
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,505,16.415,0.0335
+llama3:8b,What's the difference between anxiety and stress?,466,83.140,0.0332
+llama3:8b,How do I write a professional follow-up email after a job in...,603,71.276,0.0337
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,745,77.730,0.0336
+llama3:8b,What are some tips to stay focused while studying?,568,80.283,0.0329
+llama3:8b,What are some tips to stay focused while studying?,517,14.903,0.0335
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,872,82.405,0.0335
+llama3:8b,Can you explain inflation in simple terms?,361,14.163,0.0328
+llama3:8b,What's the difference between anxiety and stress?,439,80.101,0.0322
+llama3:8b,How do I negotiate my salary during a job offer?,543,83.971,0.0326
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,555,14.571,0.0331
+llama3:8b,What's the difference between anxiety and stress?,431,75.156,0.0325
+llama3:8b,What's the difference between anxiety and stress?,496,9.764,0.0328
+llama3:8b,Can you explain inflation in simple terms?,411,83.315,0.0332
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,626,77.977,0.0332
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,463,79.441,0.0323
+llama3:8b,How do I write a professional follow-up email after a job in...,571,16.513,0.0326
+llama3:8b,What are some tips to stay focused while studying?,509,77.711,0.0321
+llama3:8b,How do I negotiate my salary during a job offer?,506,72.962,0.0334
+llama3:8b,How can I start a simple workout routine at home with no equ...,548,17.569,0.0327
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,653,75.495,0.0335
+llama3:8b,How do I write a professional follow-up email after a job in...,541,16.069,0.0327
+llama3:8b,Can you explain inflation in simple terms?,341,77.467,0.0337
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,530,19.098,0.0330
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,742,69.059,0.0322
+llama3:8b,How can I start a simple workout routine at home with no equ...,604,72.856,0.0321
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,496,68.300,0.0331
+llama3:8b,Can you explain inflation in simple terms?,436,74.951,0.0327
+llama3:8b,What are some tips to stay focused while studying?,579,78.904,0.0324
+llama3:8b,What are some tips to stay focused while studying?,470,69.919,0.0323
+llama3:8b,How do I write a professional follow-up email after a job in...,510,17.043,0.0331
+llama3:8b,How do I negotiate my salary during a job offer?,572,20.004,0.0332
+llama3:8b,Can you explain inflation in simple terms?,407,79.459,0.0320
+llama3:8b,How do I write a professional follow-up email after a job in...,457,12.981,0.0331
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,389,72.494,0.0327
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,748,74.300,0.0327
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,690,66.024,0.0326
+llama3:8b,How can I start a simple workout routine at home with no equ...,716,9.148,0.0331
+llama3:8b,How can I start a simple workout routine at home with no equ...,590,77.814,0.0321
+llama3:8b,What are some fun icebreaker questions for team meetings?,463,81.090,0.0318
+llama3:8b,What are some fun icebreaker questions for team meetings?,440,69.115,0.0335
+llama3:8b,What are some fun icebreaker questions for team meetings?,461,12.520,0.0333
+llama3:8b,How do I negotiate my salary during a job offer?,623,81.750,0.0319
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,499,24.012,0.0334
+llama3:8b,What are some fun icebreaker questions for team meetings?,385,65.062,0.0340
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,323,53.859,0.0340
+llama3:8b,What are some fun icebreaker questions for team meetings?,465,14.593,0.0335
+llama3:8b,What's the difference between anxiety and stress?,538,76.102,0.0325
+llama3:8b,How do I write a professional follow-up email after a job in...,488,59.956,0.0335
+llama3:8b,What's the difference between anxiety and stress?,482,18.307,0.0334
+llama3:8b,How do I write a professional follow-up email after a job in...,453,81.403,0.0327
+llama3:8b,What are some tips to stay focused while studying?,516,82.558,0.0328
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,395,85.516,0.0328
+llama3:8b,Can you explain inflation in simple terms?,446,23.451,0.0328
+llama3:8b,What are some fun icebreaker questions for team meetings?,465,18.789,0.0328
+llama3:8b,What's the difference between anxiety and stress?,560,57.687,0.0327
+llama3:8b,How can I start a simple workout routine at home with no equ...,474,60.126,0.0324
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,407,85.010,0.0323
+llama3:8b,What are some tips to stay focused while studying?,475,21.475,0.0325
+llama3:8b,What are some tips to stay focused while studying?,545,56.234,0.0325
+llama3:8b,How do I write a professional follow-up email after a job in...,442,60.432,0.0326
+llama3:8b,What's the difference between anxiety and stress?,432,23.877,0.0324
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,342,85.620,0.0313
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,534,83.738,0.0316
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,477,87.090,0.0313
+llama3:8b,What's the difference between anxiety and stress?,493,23.133,0.0322
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,366,25.340,0.0321
+llama3:8b,What's the difference between anxiety and stress?,459,86.447,0.0317
+llama3:8b,How can I start a simple workout routine at home with no equ...,561,22.432,0.0320
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,564,64.235,0.0322
+llama3:8b,How can I start a simple workout routine at home with no equ...,458,63.295,0.0320
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,509,64.525,0.0321
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,629,62.455,0.0322
+llama3:8b,What's the difference between anxiety and stress?,468,24.373,0.0323
+llama3:8b,Can you explain inflation in simple terms?,424,74.676,0.0318
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,572,71.407,0.0321
+llama3:8b,How do I negotiate my salary during a job offer?,586,70.499,0.0320
+llama3:8b,What are some fun icebreaker questions for team meetings?,440,70.866,0.0322
+llama3:8b,How do I negotiate my salary during a job offer?,512,30.427,0.0328
+llama3:8b,How do I negotiate my salary during a job offer?,539,25.866,0.0328
+llama3:8b,What's the difference between anxiety and stress?,452,61.499,0.0336
+llama3:8b,Can you explain inflation in simple terms?,407,47.329,0.0336
+llama3:8b,How can I start a simple workout routine at home with no equ...,520,28.404,0.0329
+llama3:8b,What's the difference between anxiety and stress?,462,58.065,0.0337
+llama3:8b,What are some fun icebreaker questions for team meetings?,507,73.937,0.0320
+llama3:8b,How do I negotiate my salary during a job offer?,539,50.527,0.0336
+llama3:8b,How do I negotiate my salary during a job offer?,659,25.805,0.0328
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,428,73.437,0.0322
+llama3:8b,Can you explain inflation in simple terms?,403,31.079,0.0327
+llama3:8b,Can you explain inflation in simple terms?,403,28.124,0.0326
+llama3:8b,How do I negotiate my salary during a job offer?,592,78.609,0.0322
+llama3:8b,What's the difference between anxiety and stress?,503,57.663,0.0337
+llama3:8b,How do I write a professional follow-up email after a job in...,517,57.574,0.0337
+llama3:8b,How do I write a professional follow-up email after a job in...,467,73.717,0.0323
+llama3:8b,How do I write a professional follow-up email after a job in...,511,50.173,0.0337
+llama3:8b,What are some tips to stay focused while studying?,559,28.995,0.0330
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,773,77.220,0.0322
+llama3:8b,Can you explain inflation in simple terms?,331,30.576,0.0330
+llama3:8b,How do I write a professional follow-up email after a job in...,545,42.474,0.0337
+llama3:8b,How do I negotiate my salary during a job offer?,530,36.148,0.0326
+llama3:8b,How do I negotiate my salary during a job offer?,552,68.692,0.0328
+llama3:8b,What are some tips to stay focused while studying?,481,65.296,0.0330
+llama3:8b,What are some fun icebreaker questions for team meetings?,371,44.336,0.0330
+llama3:8b,Can you explain inflation in simple terms?,417,31.059,0.0322
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,759,35.422,0.0326
+llama3:8b,How do I negotiate my salary during a job offer?,582,41.568,0.0332
+llama3:8b,What are some tips to stay focused while studying?,470,39.542,0.0331
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,618,64.404,0.0331
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,343,43.975,0.0334
+llama3:8b,How can I start a simple workout routine at home with no equ...,763,54.211,0.0334
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,703,60.839,0.0331
+llama3:8b,What are some fun icebreaker questions for team meetings?,417,30.036,0.0330
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,776,31.437,0.0329
+llama3:8b,How can I start a simple workout routine at home with no equ...,675,67.621,0.0331
+llama3:8b,What are some fun icebreaker questions for team meetings?,532,36.116,0.0335
+llama3:8b,How can I start a simple workout routine at home with no equ...,742,67.797,0.0331
+llama3:8b,How do I write a professional follow-up email after a job in...,434,75.444,0.0330
+llama3:8b,What are some fun icebreaker questions for team meetings?,367,38.279,0.0340
+llama3:8b,What's the difference between anxiety and stress?,473,44.679,0.0340
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,828,33.389,0.0332
+llama3:8b,Can you explain inflation in simple terms?,388,37.871,0.0340
+llama3:8b,What are some tips to stay focused while studying?,538,48.997,0.0340
+llama3:8b,What are some tips to stay focused while studying?,575,72.102,0.0331
+llama3:8b,What's the difference between anxiety and stress?,444,32.798,0.0342
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,490,77.149,0.0329
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,595,35.453,0.0342
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,593,31.113,0.0343
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,484,80.045,0.0326
+llama3:8b,What's the difference between anxiety and stress?,453,43.306,0.0320
+llama3:8b,What's the difference between anxiety and stress?,483,36.598,0.0345
+llama3:8b,How do I negotiate my salary during a job offer?,573,78.391,0.0325
+llama3:8b,How do I write a professional follow-up email after a job in...,656,46.283,0.0321
+llama3:8b,What's the difference between anxiety and stress?,442,85.808,0.0321
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,710,45.127,0.0321
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,764,49.736,0.0323
+llama3:8b,What's the difference between anxiety and stress?,472,73.575,0.0319
+llama3:8b,What are some fun icebreaker questions for team meetings?,560,40.886,0.0343
+llama3:8b,How can I start a simple workout routine at home with no equ...,516,42.482,0.0342
+llama3:8b,How do I write a professional follow-up email after a job in...,546,39.909,0.0341
+llama3:8b,What are some fun icebreaker questions for team meetings?,510,39.152,0.0340
+llama3:8b,How can I start a simple workout routine at home with no equ...,725,79.977,0.0321
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,380,81.870,0.0318
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,570,76.860,0.0321
+llama3:8b,What's the difference between anxiety and stress?,448,48.708,0.0335
+llama3:8b,What's the difference between anxiety and stress?,502,48.129,0.0335
+llama3:8b,How can I start a simple workout routine at home with no equ...,728,43.952,0.0331
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,788,48.158,0.0336
+llama3:8b,What are some tips to stay focused while studying?,518,30.943,0.0325
+llama3:8b,What are some tips to stay focused while studying?,577,83.038,0.0328
+llama3:8b,How do I negotiate my salary during a job offer?,511,135.865,0.0324
+llama3:8b,How do I write a professional follow-up email after a job in...,428,82.823,0.0331
+llama3:8b,Can you explain inflation in simple terms?,451,29.412,0.0323
+llama3:8b,How can I start a simple workout routine at home with no equ...,585,49.207,0.0324
+llama3:8b,What are some fun icebreaker questions for team meetings?,533,86.957,0.0329
+llama3:8b,How can I start a simple workout routine at home with no equ...,391,53.511,0.0340
+llama3:8b,What's the difference between anxiety and stress?,416,54.313,0.0340
+llama3:8b,How do I write a professional follow-up email after a job in...,582,73.800,0.0326
+llama3:8b,How do I negotiate my salary during a job offer?,518,57.422,0.0341
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,337,54.177,0.0342
+llama3:8b,Can you explain inflation in simple terms?,295,72.251,0.0315
+llama3:8b,How do I write a professional follow-up email after a job in...,476,77.274,0.0317
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,482,27.998,0.0328
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,314,66.399,0.0317
+llama3:8b,How do I negotiate my salary during a job offer?,555,37.245,0.0328
+llama3:8b,How can I start a simple workout routine at home with no equ...,570,24.858,0.0328
+llama3:8b,How do I write a professional follow-up email after a job in...,575,11.046,0.0328
+llama3:8b,How do I write a professional follow-up email after a job in...,519,60.499,0.0328
+llama3:8b,How do I write a professional follow-up email after a job in...,528,59.108,0.0328
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,725,85.753,0.0320
+llama3:8b,What are some fun icebreaker questions for team meetings?,393,67.004,0.0325
+llama3:8b,What's the difference between anxiety and stress?,557,57.164,0.0327
+llama3:8b,How do I negotiate my salary during a job offer?,653,60.878,0.0326
+llama3:8b,How do I negotiate my salary during a job offer?,494,62.906,0.0330
+llama3:8b,How can I start a simple workout routine at home with no equ...,594,61.925,0.0330
+llama3:8b,How can I start a simple workout routine at home with no equ...,608,26.207,0.0327
+llama3:8b,What are some fun icebreaker questions for team meetings?,503,22.956,0.0327
+llama3:8b,How do I write a professional follow-up email after a job in...,533,27.167,0.0327
+llama3:8b,Can you explain inflation in simple terms?,285,54.558,0.0331
+llama3:8b,How can I start a simple workout routine at home with no equ...,639,25.598,0.0328
+llama3:8b,What are some fun icebreaker questions for team meetings?,451,66.519,0.0332
+llama3:8b,How do I negotiate my salary during a job offer?,521,58.108,0.0328
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,500,48.996,0.0327
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,719,62.242,0.0333
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,692,69.080,0.0321
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,531,72.423,0.0317
+llama3:8b,What's the difference between anxiety and stress?,421,30.322,0.0336
+llama3:8b,Can you explain inflation in simple terms?,401,47.345,0.0326
+llama3:8b,How can I start a simple workout routine at home with no equ...,490,74.726,0.0316
+llama3:8b,What are some fun icebreaker questions for team meetings?,424,45.456,0.0331
+llama3:8b,How do I negotiate my salary during a job offer?,549,31.097,0.0334
+llama3:8b,How can I start a simple workout routine at home with no equ...,633,67.898,0.0318
+llama3:8b,How do I negotiate my salary during a job offer?,645,18.588,0.0335
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,364,76.956,0.0325
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,750,39.032,0.0336
+llama3:8b,How can I start a simple workout routine at home with no equ...,404,78.435,0.0317
+llama3:8b,How do I negotiate my salary during a job offer?,529,76.486,0.0320
+llama3:8b,How can I start a simple workout routine at home with no equ...,587,37.424,0.0337
+llama3:8b,How do I write a professional follow-up email after a job in...,634,44.768,0.0336
+llama3:8b,Can you explain inflation in simple terms?,484,41.192,0.0334
+llama3:8b,How do I negotiate my salary during a job offer?,654,39.272,0.0334
+llama3:8b,Can you explain inflation in simple terms?,404,36.803,0.0342
+llama3:8b,How do I negotiate my salary during a job offer?,570,32.265,0.0340
+llama3:8b,What are some fun icebreaker questions for team meetings?,471,38.183,0.0340
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,825,30.394,0.0339
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,430,81.269,0.0317
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,642,79.053,0.0317
+llama3:8b,How do I write a professional follow-up email after a job in...,434,45.672,0.0332
+llama3:8b,What are some tips to stay focused while studying?,548,52.420,0.0329
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,579,51.485,0.0330
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,882,84.210,0.0319
+llama3:8b,What's the difference between anxiety and stress?,493,46.081,0.0331
+llama3:8b,How can I start a simple workout routine at home with no equ...,790,83.219,0.0324
+llama3:8b,How do I write a professional follow-up email after a job in...,542,44.179,0.0345
+llama3:8b,How do I write a professional follow-up email after a job in...,581,44.057,0.0345
+llama3:8b,What are some tips to stay focused while studying?,519,35.126,0.0347
+llama3:8b,What are some tips to stay focused while studying?,573,36.889,0.0346
+llama3:8b,How can I start a simple workout routine at home with no equ...,549,91.728,0.0337
+llama3:8b,How do I negotiate my salary during a job offer?,564,79.433,0.0337
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,305,84.095,0.0338
+llama3:8b,What's the difference between anxiety and stress?,519,50.174,0.0325
+llama3:8b,How can I start a simple workout routine at home with no equ...,516,81.163,0.0333
+llama3:8b,How do I write a professional follow-up email after a job in...,595,53.895,0.0325
+llama3:8b,How do I negotiate my salary during a job offer?,519,46.728,0.0324
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,716,51.154,0.0326
+llama3:8b,What's the difference between anxiety and stress?,454,40.132,0.0338
+llama3:8b,How do I write a professional follow-up email after a job in...,525,45.141,0.0337
+llama3:8b,What are some fun icebreaker questions for team meetings?,429,39.491,0.0336
+llama3:8b,What's the difference between anxiety and stress?,474,36.114,0.0336
+llama3:8b,What's the difference between anxiety and stress?,405,59.596,0.0334
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,575,91.201,0.0321
+llama3:8b,What's the difference between anxiety and stress?,553,92.345,0.0319
+llama3:8b,How do I write a professional follow-up email after a job in...,579,82.872,0.0318
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,511,75.542,0.0318
+llama3:8b,What's the difference between anxiety and stress?,448,60.734,0.0334
+llama3:8b,Can you explain inflation in simple terms?,454,53.800,0.0336
+llama3:8b,What are some tips to stay focused while studying?,602,59.733,0.0335
+llama3:8b,Can you explain inflation in simple terms?,454,32.258,0.0331
+llama3:8b,What are some tips to stay focused while studying?,503,41.347,0.0331
+llama3:8b,What's the difference between anxiety and stress?,403,79.507,0.0320
+llama3:8b,How do I write a professional follow-up email after a job in...,412,74.344,0.0320
+llama3:8b,What are some tips to stay focused while studying?,521,32.531,0.0331
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,477,56.192,0.0329
+llama3:8b,Can you explain inflation in simple terms?,492,68.232,0.0317
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,602,71.376,0.0317
+llama3:8b,How can I start a simple workout routine at home with no equ...,870,41.512,0.0335
+llama3:8b,How do I negotiate my salary during a job offer?,533,50.555,0.0325
+llama3:8b,How can I start a simple workout routine at home with no equ...,649,58.740,0.0327
+llama3:8b,What are some tips to stay focused while studying?,581,52.489,0.0326
+llama3:8b,What's the difference between anxiety and stress?,465,73.938,0.0314
+llama3:8b,How do I write a professional follow-up email after a job in...,515,73.636,0.0315
+llama3:8b,How do I negotiate my salary during a job offer?,592,43.136,0.0340
+llama3:8b,How do I negotiate my salary during a job offer?,505,48.415,0.0330
+llama3:8b,What are some tips to stay focused while studying?,449,69.327,0.0321
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,748,33.767,0.0338
+llama3:8b,What's the difference between anxiety and stress?,446,44.045,0.0336
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,582,69.952,0.0319
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,800,35.999,0.0339
+llama3:8b,Can you explain inflation in simple terms?,375,42.349,0.0321
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,550,37.673,0.0325
+llama3:8b,How can I start a simple workout routine at home with no equ...,478,72.486,0.0318
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,425,51.999,0.0334
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,609,57.144,0.0325
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,639,56.322,0.0326
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,488,70.945,0.0317
+llama3:8b,How do I negotiate my salary during a job offer?,500,56.037,0.0331
+llama3:8b,How do I negotiate my salary during a job offer?,575,56.490,0.0329
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,837,72.822,0.0322
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,529,67.191,0.0324
+llama3:8b,What's the difference between anxiety and stress?,572,58.885,0.0325
+llama3:8b,What are some tips to stay focused while studying?,514,69.003,0.0329
+llama3:8b,How do I write a professional follow-up email after a job in...,530,49.085,0.0333
+llama3:8b,How do I write a professional follow-up email after a job in...,419,58.501,0.0334
+llama3:8b,What are some tips to stay focused while studying?,526,40.114,0.0336
+llama3:8b,How do I negotiate my salary during a job offer?,601,49.218,0.0335
+llama3:8b,How do I write a professional follow-up email after a job in...,570,44.951,0.0337
+llama3:8b,Can you help me plan a 3-day trip to Paris on a budget?,637,56.872,0.0326
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,476,65.358,0.0330
+llama3:8b,What's the difference between anxiety and stress?,489,59.535,0.0333
+llama3:8b,How do I negotiate my salary during a job offer?,570,65.234,0.0331
+llama3:8b,How can I start a simple workout routine at home with no equ...,539,58.028,0.0332
+llama3:8b,What's a quick and healthy dinner I can make with chicken an...,303,41.303,0.0333
+llama3:8b,What's the difference between anxiety and stress?,500,62.830,0.0336
+llama3:8b,Can you summarize the key points of the book Atomic Habits?,519,60.180,0.0331
+llama3:8b,How do I write a professional follow-up email after a job in...,524,55.763,0.0330
+llama3:8b,How do I write a professional follow-up email after a job in...,519,51.945,0.0334
+llama3:8b,What's the difference between anxiety and stress?,521,48.192,0.0334
+llama3:8b,How do I write a professional follow-up email after a job in...,405,59.530,0.0337
+llama3:8b,How can I start a simple workout routine at home with no equ...,669,54.947,0.0334
+llama3:8b,What are some fun icebreaker questions for team meetings?,332,61.965,0.0336
+llama3:8b,How do I negotiate my salary during a job offer?,602,57.939,0.0337

@@ -1,0 +1,5 @@
+MODEL_NAME=gemma3:4b
+USERS=100
+SPAWN_RATE=100
+DURATION=30m
+HOST=https://ollama-gemma-587938011321.us-central1.run.app

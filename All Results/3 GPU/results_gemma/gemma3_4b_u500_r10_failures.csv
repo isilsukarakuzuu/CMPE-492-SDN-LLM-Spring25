@@ -1,0 +1,4 @@
+Method,Name,Error,Occurrences
+POST,/api/generate,HTTPError('502 Server Error: Bad Gateway for url: /api/generate'),27
+POST,/api/generate,HTTPError('504 Server Error: Gateway Timeout for url: /api/generate'),197
+POST,/api/generate,RemoteDisconnected('Remote end closed connection without response'),9

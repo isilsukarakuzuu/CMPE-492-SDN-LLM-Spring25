@@ -1,0 +1,4 @@
+Method,Name,Error,Occurrences
+POST,/api/generate,"gaierror(8, 'nodename nor servname provided, or not known')",46
+POST,/api/generate,HTTPError('504 Server Error: Gateway Timeout for url: /api/generate'),46
+POST,/api/generate,RemoteDisconnected('Remote end closed connection without response'),77
