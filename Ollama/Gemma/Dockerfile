@@ -1,4 +1,4 @@
-FROM ollama/ollama:0.6.0
+FROM ollama/ollama:latest
 
 # Listen on all interfaces, port 8080
 ENV OLLAMA_HOST 0.0.0.0:8080
