@@ -1,0 +1,38 @@
+Model,Prompt,Tokens,TTFT (s),Avg Time/Token (s)
+gemma3:4b,What's a quick and healthy dinner I can make with chicken an...,827,23.408,0.0249
+gemma3:4b,How do I negotiate my salary during a job offer?,1166,17.395,0.0248
+gemma3:4b,What are some tips to stay focused while studying?,1028,22.088,0.0248
+gemma3:4b,What's a quick and healthy dinner I can make with chicken an...,826,42.070,0.0241
+gemma3:4b,Can you help me plan a 3-day trip to Paris on a budget?,1190,37.406,0.0243
+gemma3:4b,How can I start a simple workout routine at home with no equ...,1028,41.374,0.0242
+gemma3:4b,How do I write a professional follow-up email after a job in...,1276,42.717,0.0244
+gemma3:4b,Can you explain inflation in simple terms?,487,62.372,0.0250
+gemma3:4b,What's a quick and healthy dinner I can make with chicken an...,857,59.073,0.0250
+gemma3:4b,How do I negotiate my salary during a job offer?,1302,61.412,0.0252
+gemma3:4b,What are some tips to stay focused while studying?,901,69.925,0.0253
+gemma3:4b,How do I write a professional follow-up email after a job in...,1083,72.671,0.0253
+gemma3:4b,What's a quick and healthy dinner I can make with chicken an...,984,75.598,0.0253
+gemma3:4b,What are some tips to stay focused while studying?,890,89.325,0.0244
+gemma3:4b,What are some tips to stay focused while studying?,967,88.847,0.0244
+gemma3:4b,How do I write a professional follow-up email after a job in...,1078,96.703,0.0240
+gemma3:4b,How do I negotiate my salary during a job offer?,1260,97.625,0.0241
+gemma3:4b,What's the difference between anxiety and stress?,854,108.172,0.0244
+gemma3:4b,What's a quick and healthy dinner I can make with chicken an...,843,108.544,0.0245
+gemma3:4b,Can you help me plan a 3-day trip to Paris on a budget?,1174,109.148,0.0250
+gemma3:4b,What's a quick and healthy dinner I can make with chicken an...,897,109.099,0.0251
+gemma3:4b,What are some fun icebreaker questions for team meetings?,1106,109.078,0.0250
+gemma3:4b,Can you summarize the key points of the book Atomic Habits?,741,95.483,0.0251
+gemma3:4b,How can I start a simple workout routine at home with no equ...,1008,99.711,0.0253
+gemma3:4b,Can you help me plan a 3-day trip to Paris on a budget?,1299,97.117,0.0262
+gemma3:4b,How can I start a simple workout routine at home with no equ...,1171,104.012,0.0272
+gemma3:4b,How do I write a professional follow-up email after a job in...,1129,107.067,0.0274
+gemma3:4b,What's the difference between anxiety and stress?,783,101.571,0.0275
+gemma3:4b,Can you explain inflation in simple terms?,502,209.687,0.0273
+gemma3:4b,What's a quick and healthy dinner I can make with chicken an...,848,105.132,0.0274
+gemma3:4b,Can you summarize the key points of the book Atomic Habits?,746,108.820,0.0274
+gemma3:4b,Can you summarize the key points of the book Atomic Habits?,773,215.985,0.0276
+gemma3:4b,Can you summarize the key points of the book Atomic Habits?,810,216.877,0.0274
+gemma3:4b,What's a quick and healthy dinner I can make with chicken an...,853,108.892,0.0276
+gemma3:4b,Can you explain inflation in simple terms?,602,213.807,0.0275
+gemma3:4b,What's a quick and healthy dinner I can make with chicken an...,615,216.069,0.0276
+gemma3:4b,Can you explain inflation in simple terms?,476,87.520,0.0275

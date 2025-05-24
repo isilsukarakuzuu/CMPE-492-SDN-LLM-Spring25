@@ -1,0 +1,351 @@
+Model,Prompt,Tokens,TTFT (s),Avg Time/Token (s)
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,318,0.367,0.0273
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",361,0.328,0.0279
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,218,4.325,0.0252
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,190,4.371,0.0249
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,495,0.286,0.0268
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,420,0.413,0.0278
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,215,6.235,0.0272
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",540,0.373,0.0277
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,263,6.232,0.0272
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",385,4.249,0.0280
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,438,4.324,0.0266
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,426,5.324,0.0277
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,249,8.897,0.0272
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,235,8.654,0.0272
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,318,7.502,0.0280
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,278,10.153,0.0274
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,376,9.181,0.0273
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,538,6.895,0.0273
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,166,13.476,0.0266
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,405,10.153,0.0274
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,353,12.093,0.0272
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,457,10.481,0.0275
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,497,11.415,0.0275
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,377,11.507,0.0266
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,433,13.177,0.0266
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,282,17.681,0.0274
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,494,14.034,0.0268
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,416,15.850,0.0275
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,296,19.320,0.0263
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,547,11.758,0.0269
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,212,21.226,0.0275
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",353,19.781,0.0264
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,258,23.123,0.0275
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,509,15.532,0.0269
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,294,22.771,0.0268
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,228,23.370,0.0277
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,571,17.974,0.0268
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,377,23.178,0.0275
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",279,25.379,0.0274
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,362,23.498,0.0274
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,195,27.362,0.0272
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,233,21.164,0.0272
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,330,25.186,0.0275
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,180,30.966,0.0279
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,427,24.132,0.0270
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",399,22.275,0.0268
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",338,31.639,0.0245
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,278,8.573,0.0266
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,275,33.811,0.0279
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,491,18.692,0.0268
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,176,12.316,0.0271
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",466,24.244,0.0251
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,290,35.141,0.0280
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,540,29.761,0.0281
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,654,26.967,0.0280
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,538,26.773,0.0254
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,229,26.859,0.0269
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,342,11.306,0.0272
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,642,20.705,0.0259
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,202,7.962,0.0271
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,243,7.686,0.0273
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,235,39.560,0.0282
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,412,12.156,0.0273
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,215,30.316,0.0283
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,422,39.813,0.0283
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",289,32.115,0.0284
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,302,7.667,0.0269
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,372,30.809,0.0283
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,300,10.013,0.0264
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,297,8.471,0.0264
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,470,42.340,0.0284
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,320,30.087,0.0271
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,471,38.526,0.0283
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,272,9.551,0.0257
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,384,30.234,0.0261
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,328,11.114,0.0255
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,354,31.307,0.0256
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,391,44.613,0.0276
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,156,34.349,0.0261
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,307,45.336,0.0272
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",311,12.406,0.0256
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,387,31.030,0.0262
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,616,42.417,0.0278
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,572,31.040,0.0261
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,482,11.431,0.0258
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,497,11.322,0.0259
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,332,16.115,0.0266
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,334,32.519,0.0273
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,581,48.379,0.0277
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",381,48.538,0.0281
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,301,20.133,0.0274
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,250,19.696,0.0276
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,399,33.111,0.0279
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,350,21.636,0.0276
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,390,49.151,0.0282
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",303,18.521,0.0275
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,303,24.903,0.0279
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,421,23.373,0.0280
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,518,49.005,0.0282
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,304,19.829,0.0267
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,348,51.609,0.0280
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,148,19.272,0.0257
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,288,18.521,0.0264
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,634,32.973,0.0280
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,330,20.620,0.0256
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,484,48.713,0.0276
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,199,16.613,0.0255
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,300,22.984,0.0283
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,334,24.886,0.0283
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",398,50.636,0.0273
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",299,18.842,0.0256
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,509,21.759,0.0283
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,407,52.331,0.0271
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,208,18.369,0.0256
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,315,20.168,0.0275
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,384,15.559,0.0256
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,216,55.720,0.0272
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,180,21.898,0.0262
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,416,53.011,0.0272
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,214,17.141,0.0257
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,303,22.153,0.0252
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,367,57.069,0.0262
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,399,22.570,0.0260
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,175,14.948,0.0265
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,274,21.981,0.0258
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,260,50.532,0.0254
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,314,18.794,0.0259
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,602,17.260,0.0264
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,387,14.921,0.0271
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,408,52.379,0.0258
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",415,17.195,0.0272
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,247,17.053,0.0263
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,363,19.934,0.0263
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,296,51.284,0.0272
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,344,16.066,0.0262
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,225,51.241,0.0283
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,714,59.268,0.0269
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,288,17.667,0.0284
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,267,16.059,0.0259
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,367,16.278,0.0284
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,239,13.887,0.0266
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,469,20.716,0.0285
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,303,12.599,0.0265
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,649,50.286,0.0281
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,607,18.749,0.0285
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,194,23.388,0.0284
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",323,55.283,0.0292
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,639,17.447,0.0267
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,161,23.437,0.0282
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,424,52.080,0.0279
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,153,15.318,0.0286
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,308,25.028,0.0284
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,474,56.425,0.0292
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,310,15.603,0.0284
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,278,57.433,0.0289
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,276,24.811,0.0284
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,463,16.797,0.0282
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,384,25.131,0.0285
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,395,18.834,0.0285
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,191,27.638,0.0279
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,362,54.012,0.0283
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,283,17.749,0.0267
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",262,15.146,0.0257
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,196,48.468,0.0268
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,280,25.397,0.0256
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,262,25.913,0.0257
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,378,52.252,0.0270
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",346,25.123,0.0261
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,412,27.844,0.0265
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,480,16.557,0.0261
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",422,15.466,0.0256
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,568,53.776,0.0273
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,513,49.242,0.0272
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,184,50.570,0.0275
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,248,53.594,0.0275
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,286,25.105,0.0263
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,303,28.164,0.0263
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,417,14.874,0.0264
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,419,23.837,0.0263
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,324,19.168,0.0269
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,285,47.660,0.0245
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",327,47.830,0.0248
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",365,52.691,0.0251
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,528,29.815,0.0265
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,655,18.944,0.0267
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,327,46.592,0.0245
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,366,26.885,0.0270
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,229,20.450,0.0285
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,537,19.543,0.0276
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",345,24.085,0.0283
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,242,46.236,0.0259
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,207,28.334,0.0276
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,297,26.117,0.0275
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,506,24.900,0.0272
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,334,40.547,0.0258
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,222,26.929,0.0260
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",308,26.897,0.0278
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,592,46.515,0.0263
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",357,26.933,0.0278
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,510,22.671,0.0281
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,546,35.006,0.0264
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",443,24.305,0.0276
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,371,28.765,0.0258
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",348,29.204,0.0274
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",261,30.458,0.0263
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,571,31.706,0.0265
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,532,30.102,0.0264
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,206,29.176,0.0282
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,343,30.994,0.0272
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,353,34.571,0.0283
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,248,29.861,0.0278
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,233,23.642,0.0277
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,531,30.385,0.0273
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,807,34.870,0.0278
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",340,25.163,0.0279
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,210,36.135,0.0273
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,204,31.060,0.0297
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,631,28.706,0.0274
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,609,35.174,0.0291
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,497,23.560,0.0277
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,567,30.463,0.0275
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",246,39.283,0.0282
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,237,34.483,0.0300
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,344,25.172,0.0274
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,434,33.076,0.0299
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,435,24.418,0.0275
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,252,28.605,0.0295
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,351,26.480,0.0274
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,226,40.410,0.0285
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,393,41.136,0.0285
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,267,28.093,0.0275
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,383,25.466,0.0276
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,332,36.890,0.0277
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,440,30.341,0.0269
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,290,28.791,0.0275
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,355,29.394,0.0257
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,345,23.232,0.0271
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,593,41.022,0.0277
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,535,32.906,0.0265
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",364,41.042,0.0271
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,263,31.173,0.0271
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,475,40.088,0.0274
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,572,29.958,0.0265
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,413,26.314,0.0262
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,416,23.418,0.0262
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,199,41.742,0.0281
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,484,39.262,0.0279
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,358,42.219,0.0280
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,274,32.263,0.0277
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,549,24.593,0.0263
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,151,40.969,0.0263
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,337,42.208,0.0271
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,578,29.879,0.0277
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,496,32.018,0.0278
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,616,21.600,0.0267
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,182,30.179,0.0278
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,257,27.026,0.0279
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,315,36.847,0.0258
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",467,27.241,0.0274
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,217,36.530,0.0257
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,536,26.019,0.0279
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,320,38.367,0.0259
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,173,18.017,0.0277
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,220,28.587,0.0277
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,461,36.790,0.0260
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",279,32.520,0.0279
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,156,30.520,0.0284
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,677,25.558,0.0279
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,239,30.418,0.0285
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,378,29.182,0.0285
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,343,39.168,0.0265
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,286,13.521,0.0245
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,347,35.818,0.0266
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,268,33.882,0.0287
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,405,7.871,0.0250
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,390,34.765,0.0267
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,488,35.232,0.0266
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,263,33.930,0.0276
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,473,10.096,0.0253
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,248,37.392,0.0267
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,311,29.598,0.0267
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,585,18.925,0.0258
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",415,31.949,0.0267
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,333,11.482,0.0271
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,405,33.625,0.0256
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,434,39.426,0.0270
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",372,40.278,0.0269
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,309,36.520,0.0269
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,358,13.924,0.0275
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,238,12.757,0.0277
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,449,38.562,0.0269
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,463,35.162,0.0261
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,291,32.228,0.0262
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,576,14.388,0.0278
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,484,11.628,0.0278
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,165,37.807,0.0269
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,294,41.927,0.0265
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,591,32.825,0.0266
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,337,39.231,0.0265
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",314,37.443,0.0265
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",390,36.136,0.0271
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,321,17.847,0.0276
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",300,33.416,0.0275
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,393,16.474,0.0277
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,277,36.546,0.0282
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,234,30.773,0.0257
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,501,36.460,0.0262
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",322,37.330,0.0261
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,65,30.466,0.0269
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,161,37.380,0.0253
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,342,17.846,0.0271
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,438,35.873,0.0265
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,414,34.499,0.0269
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,197,33.900,0.0273
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,380,34.070,0.0267
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,155,26.781,0.0274
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,595,14.245,0.0273
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,530,34.878,0.0271
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,665,16.971,0.0274
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,228,23.941,0.0274
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,156,36.785,0.0273
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,283,25.873,0.0269
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,272,39.516,0.0274
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,234,18.457,0.0266
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,496,36.507,0.0274
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,596,20.383,0.0277
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,309,39.311,0.0275
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,204,22.258,0.0271
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,342,27.319,0.0288
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,433,18.388,0.0273
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,511,39.899,0.0274
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,395,21.857,0.0292
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",275,39.390,0.0276
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,273,18.656,0.0269
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,166,10.191,0.0270
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,288,39.865,0.0272
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,336,20.181,0.0270
+deepseek-coder:6.7b,Write a function that reverses a 32-bit signed integer. If t...,234,17.924,0.0270
+deepseek-coder:6.7b,Write a Python function to read a large text file line by li...,337,25.699,0.0283
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,511,40.521,0.0271
+deepseek-coder:6.7b,"Given a string s, return the length of the longest substring...",228,25.380,0.0273
+deepseek-coder:6.7b,Generate a regular expression that matches email addresses i...,357,24.579,0.0280
+deepseek-coder:6.7b,Design a simple URL shortener system. Write the core functio...,596,24.955,0.0283
+deepseek-coder:6.7b,Given a pandas DataFrame with missing values and duplicate r...,354,11.688,0.0261
+deepseek-coder:6.7b,Implement a function to perform level-order traversal (BFS) ...,482,40.874,0.0269
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,335,12.960,0.0256
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,223,30.685,0.0280
+deepseek-coder:6.7b,Write a function that returns all permutations of a given li...,475,41.721,0.0270
+deepseek-coder:6.7b,Write a function to reverse a singly linked list in-place wi...,366,28.183,0.0281
+deepseek-coder:6.7b,Implement a function to detect a cycle in a directed graph u...,457,8.471,0.0257

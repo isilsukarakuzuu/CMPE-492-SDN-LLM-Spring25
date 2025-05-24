@@ -1,0 +1,3 @@
+Method,Name,Error,Occurrences
+POST,/api/generate,HTTPError('429 Client Error: Too Many Requests for url: /api/generate'),3
+POST,/api/generate,HTTPError('503 Server Error: Service Unavailable for url: /api/generate'),2
