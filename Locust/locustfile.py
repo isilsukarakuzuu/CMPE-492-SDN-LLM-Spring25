@@ -4,9 +4,8 @@ import time
 import csv
 from locust import HttpUser, task, between
 
-
 class OllamaUser(HttpUser):
-    wait_time = between(1, 3)
+    wait_time = between(5, 10)
 
     def on_start(self):
         self.model_name = os.getenv("MODEL_NAME")
@@ -33,7 +32,6 @@ class OllamaUser(HttpUser):
     @task
     def chat_request(self):
         prompt = random.choice(self.prompts)
-
         payload = {
             "model": self.model_name,
             "prompt": prompt,
