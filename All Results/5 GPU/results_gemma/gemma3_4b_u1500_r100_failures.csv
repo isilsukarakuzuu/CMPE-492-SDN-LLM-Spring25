@@ -1,0 +1,6 @@
+Method,Name,Error,Occurrences
+POST,/api/generate,"ConnectionResetError(54, 'Connection reset by peer')",4
+POST,/api/generate,"SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)'))",41
+POST,/api/generate,HTTPError('504 Server Error: Gateway Timeout for url: /api/generate'),1619
+POST,/api/generate,"ReadTimeout(ReadTimeoutError(""HTTPSConnectionPool(host='ollama-gemma-991933130001.us-central1.run.app', port=443): Read timed out. (read timeout=None)""))",2
+POST,/api/generate,RemoteDisconnected('Remote end closed connection without response'),99

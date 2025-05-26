@@ -1,2 +1,4 @@
 Method,Name,Error,Occurrences
-POST,/api/generate,HTTPError('504 Server Error: Gateway Timeout for url: /api/generate'),304
+POST,/api/generate,"SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)'))",23
+POST,/api/generate,HTTPError('504 Server Error: Gateway Timeout for url: /api/generate'),40
+POST,/api/generate,RemoteDisconnected('Remote end closed connection without response'),82

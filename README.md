@@ -70,15 +70,18 @@ locust -f locustfile.py --host=https://ollama-deepseek-587938011321.us-central1.
 # Test all scenarios (approximately 7 hour)
 python3 run-locust-benchmark.py \
   --model deepseek-coder:6.7b \
-  --host https://ollama-deepseek-587938011321.us-central1.run.app
+  --host https://ollama-deepseek-312305340350.us-central1.run.app
 
 python3 run-locust-benchmark.py \
   --model gemma3:4b \
-  --host https://ollama-gemma-587938011321.us-central1.run.app
+  --host https://ollama-gemma-991933130001.us-central1.run.app
 
 python3 run-locust-benchmark.py \
   --model llama3:8b \
-  --host https://ollama-llama-587938011321.us-central1.run.app
+  --host https://ollama-llama-994669362161.us-central1.run.app
+
+# Plot results
+python3.11 visualizer_stats.py --data-dir "../All Results/3 GPU/results_deepseek"
 ```
 
 Then open your browser at `http://localhost:8089` to start the test.

@@ -2,4 +2,4 @@ MODEL_NAME=deepseek-coder:6.7b
 USERS=2000
 SPAWN_RATE=10
 DURATION=30m
-HOST=https://ollama-deepseek-587938011321.us-central1.run.app
+HOST=https://ollama-deepseek-312305340350.us-central1.run.app

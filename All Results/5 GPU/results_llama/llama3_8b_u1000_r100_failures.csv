@@ -1,0 +1,5 @@
+Method,Name,Error,Occurrences
+POST,/api/generate,"ReadTimeout(ReadTimeoutError(""HTTPSConnectionPool(host='ollama-llama-994669362161.us-central1.run.app', port=443): Read timed out. (read timeout=None)""))",3
+POST,/api/generate,"SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)'))",16
+POST,/api/generate,HTTPError('504 Server Error: Gateway Timeout for url: /api/generate'),59
+POST,/api/generate,RemoteDisconnected('Remote end closed connection without response'),165

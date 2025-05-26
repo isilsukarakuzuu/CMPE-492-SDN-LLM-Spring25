@@ -1,0 +1,6 @@
+Method,Name,Error,Occurrences
+POST,/api/generate,"ConnectionResetError(54, 'Connection reset by peer')",1
+POST,/api/generate,HTTPError('502 Server Error: Bad Gateway for url: /api/generate'),12
+POST,/api/generate,"SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)'))",26
+POST,/api/generate,HTTPError('504 Server Error: Gateway Timeout for url: /api/generate'),897
+POST,/api/generate,RemoteDisconnected('Remote end closed connection without response'),27
