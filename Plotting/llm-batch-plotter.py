@@ -30,6 +30,9 @@ def collect_files(data_type):
                 continue
             for file in model_dir.glob(f"*{data_type}.csv"):
                 records.append((gpu_count, file))
+            for gcp_dir in model_dir.glob("GCP*"):
+                for file in gcp_dir.glob(f"*{data_type}.csv"):
+                    records.append((gpu_count, file))
     return records
 
 def collect_records(data_type):
@@ -60,6 +63,8 @@ def main():
     metrics = collect_records("metrics")
     stats_history = collect_records("stats_history")
     stats = collect_records("stats")
+
+    
 
 
 if __name__ == "__main__":
