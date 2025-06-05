@@ -6,8 +6,8 @@ from collections import defaultdict
 import re
 
 # --- CONFIG ---
-BASE_DIR = Path("../All Results")
-OUTPUT_DIR = Path("./plots")
+BASE_DIR = Path("./All Results")
+OUTPUT_DIR = Path("./Plotting/plots")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 # --- Helpers ---
@@ -64,8 +64,74 @@ def main():
     stats_history = collect_records("stats_history")
     stats = collect_records("stats")
 
+
+    df = pd.read_csv('summary_complete.csv')  
+
+    def map_model_name(model_name):
+        if model_name == "deepseek":
+            return "deepseek-coder_6.7b"
+        if model_name == "gemma":
+            return "gemma3_4b"
+        if model_name == "llama":
+            return "llama3_8b"
+        
+    def get_tokens_per_second(row):
+        return metrics[(
+            row["GPU"],
+            map_model_name(row["Model"]),
+            row["Users"],
+            row["Ramp"],
+            "metrics"
+        )]["Tokens"].sum() / (30 * 60)
+    
+    def get_total_content_size(row):
+        metric = stats_history[(
+            row["GPU"],
+            map_model_name(row["Model"]),
+            row["Users"],
+            row["Ramp"],
+            "stats_history"
+        )]
+        return metric.iloc[-1]["Total Average Content Size"] * len(metric)
+    
+    def get_request_count(row):
+        data = stats[(
+            row["GPU"],
+            map_model_name(row["Model"]),
+            row["Users"],
+            row["Ramp"],
+            "stats"
+        )]
+        return data.iloc[-1]["Request Count"]
+    
+    def get_failure_count(row):
+        data = stats[(
+            row["GPU"],
+            map_model_name(row["Model"]),
+            row["Users"],
+            row["Ramp"],
+            "stats"
+        )]
+        return data.iloc[-1]["Failure Count"]
+    
+    def get_average_response_time(row):
+        data = stats[(
+            row["GPU"],
+            map_model_name(row["Model"]),
+            row["Users"],
+            row["Ramp"],
+            "stats"
+        )]
+        return data.iloc[-1]["Average Response Time"]
     
 
+    df['tokens_per_second'] = df.apply(get_tokens_per_second, axis=1)
+    df['total_content_size'] = df.apply(get_total_content_size, axis=1)
+    df['request_count'] = df.apply(get_request_count, axis=1)
+    df['failure_count'] = df.apply(get_failure_count, axis=1)
+    df['average_response_time'] = df.apply(get_average_response_time, axis=1)
+
+    df.to_csv('summary_merged.csv', index=False, float_format="%.3f") 
 
 if __name__ == "__main__":
     main()

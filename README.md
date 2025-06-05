@@ -18,12 +18,19 @@ This project uses [Locust](https://locust.io/) to performance test LLM API endpo
 
 ```
 .
-├── Locust/
-│   ├── locustfile.py             # Main Locust test script
-│   └── requirements.txt          # Python dependencies
-└── Prompts/
-    ├── code-generation.txt       # Code prompts (used with DeepSeek)
-    └── general-questions.txt     # General prompts (used with other models)
+├── Locust/ # Locust load scripts
+│ ├── locustfile.py
+│ ├── run-locust-benchmark.py
+│ └── requirements.txt
+├── Prompts/ # Prompt data
+│ ├── code-generation.txt
+│ └── general-questions.txt
+├── Ollama/ # Model deployment folders with Dockerfiles
+├── Plotting/ # Visualizer and analysis scripts
+│ ├── gcp-data-plotter.py
+│ └── visualizer_stats.py
+├── All Results/ # Raw test outputs for all models & GPUs
+├── summary_complete.csv # Aggregated statistics
 ```
 
 ---
