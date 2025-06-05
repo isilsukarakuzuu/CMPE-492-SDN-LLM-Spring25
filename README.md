@@ -45,14 +45,7 @@ This project uses [Locust](https://locust.io/) to performance test LLM API endpo
    pip install -r requirements.txt
    ```
 
-2. **Set your API token**  
-   Either export it or hardcode in `locustfile.py`:
-
-   ```bash
-   export API_TOKEN="your_token_here"
-   ```
-
-3. **Add your prompts (Optional)**  
+2. **Add your prompts (Optional)**  
    Change `code-generation.txt` and `general-questions.txt` with one prompt per line.
 
 ---
